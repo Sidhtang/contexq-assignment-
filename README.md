@@ -120,6 +120,11 @@ The system generates several output files:
 ## Visualization
 
 The system generates network visualizations for the top risk signals:
+here are some exmples of the visualisations 
+example 1![risk_signal_1](https://github.com/user-attachments/assets/b02bec8b-f5d8-4cfe-b53f-03861e9a4aa3)
+example 2 ![risk_signal_2](https://github.com/user-attachments/assets/6bd994e6-0542-4c47-900b-c602945d8f3b)
+
+
 
 
 Nodes are color-coded as follows:
