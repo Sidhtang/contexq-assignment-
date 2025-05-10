@@ -30,7 +30,6 @@ The system is built with a modular architecture:
 3. **KnowledgeGraphBuilder**: Constructs a network representation of entities and their relationships
 4. **RiskAnalyzer**: Identifies potential risk signals and generates reports
 
-![System Architecture](https://via.placeholder.com/700x400?text=System+Architecture)
 
 ## Installation
 
@@ -112,11 +111,9 @@ risk_report = risk_analyzer.generate_risk_report(top_n=10, filename="detailed_ri
 The system generates several output files:
 
 - **collected_news_articles.csv**: Raw collected articles
-- 
 - **processed_articles.json**: NLP-processed article data
 - **news_knowledge_graph.graphml**: Knowledge graph in GraphML format
 - **news_knowledge_graph.gexf**: Knowledge graph in GEXF format (for Gephi)
-- 
 - **risk_analysis_report.json**: Detailed risk analysis report
 - **risk_signal_X.png**: Visualizations of top risk signals
 
@@ -124,7 +121,6 @@ The system generates several output files:
 
 The system generates network visualizations for the top risk signals:
 
-![Risk Signal Example](https://via.placeholder.com/600x400?text=Risk+Signal+Visualization)
 
 Nodes are color-coded as follows:
 - **Red**: Negative sentiment articles
