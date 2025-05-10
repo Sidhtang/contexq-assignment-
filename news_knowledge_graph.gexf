@@ -1,0 +1,2286 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-05-10">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="type" type="string" />
+      <attribute id="1" title="title" type="string" />
+      <attribute id="2" title="source" type="string" />
+      <attribute id="3" title="date" type="string" />
+      <attribute id="4" title="link" type="string" />
+      <attribute id="5" title="sentiment" type="string" />
+      <attribute id="6" title="name" type="string" />
+      <attribute id="7" title="sentiments_str" type="string" />
+      <attribute id="8" title="predominant_sentiment" type="string" />
+    </attributes>
+    <nodes>
+      <node id="article_0" label="article_0">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="European leaders pressure Russia over 30-day Ukraine ceasefire" />
+          <attvalue for="2" value="BBC World" />
+          <attvalue for="3" value="2025-05-10 14:08:38" />
+          <attvalue for="4" value="https://www.bbc.com/news/articles/c87j03x9px2o" />
+          <attvalue for="5" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="france_Organization" label="france_Organization">
+        <attvalues>
+          <attvalue for="6" value="France" />
+          <attvalue for="0" value="Organization" />
+        </attvalues>
+      </node>
+      <node id="britain_Organization" label="britain_Organization">
+        <attvalues>
+          <attvalue for="6" value="Britain" />
+          <attvalue for="0" value="Organization" />
+        </attvalues>
+      </node>
+      <node id="germany_Organization" label="germany_Organization">
+        <attvalues>
+          <attvalue for="6" value="Germany" />
+          <attvalue for="0" value="Organization" />
+        </attvalues>
+      </node>
+      <node id="poland_Organization" label="poland_Organization">
+        <attvalues>
+          <attvalue for="6" value="Poland" />
+          <attvalue for="0" value="Organization" />
+        </attvalues>
+      </node>
+      <node id="vlodomyr_zelensky_Person" label="vlodomyr_zelensky_Person">
+        <attvalues>
+          <attvalue for="6" value="Vlodomyr Zelensky" />
+          <attvalue for="0" value="Person" />
+          <attvalue for="7" value="neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="russia_Location" label="russia_Location">
+        <attvalues>
+          <attvalue for="6" value="Russia" />
+          <attvalue for="0" value="Location" />
+          <attvalue for="7" value="negative,neutral" />
+          <attvalue for="8" value="negative" />
+        </attvalues>
+      </node>
+      <node id="ukraine_Location" label="ukraine_Location">
+        <attvalues>
+          <attvalue for="6" value="Ukraine" />
+          <attvalue for="0" value="Location" />
+          <attvalue for="7" value="neutral,negative,negative" />
+          <attvalue for="8" value="negative" />
+        </attvalues>
+      </node>
+      <node id="european_Location" label="european_Location">
+        <attvalues>
+          <attvalue for="6" value="European" />
+          <attvalue for="0" value="Location" />
+        </attvalues>
+      </node>
+      <node id="ceasefire_Event" label="ceasefire_Event">
+        <attvalues>
+          <attvalue for="6" value="ceasefire" />
+          <attvalue for="0" value="Event" />
+        </attvalues>
+      </node>
+      <node id="article_1" label="article_1">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="Trump administration considers suspending habeas corpus" />
+          <attvalue for="2" value="BBC World" />
+          <attvalue for="3" value="2025-05-10 10:11:59" />
+          <attvalue for="4" value="https://www.bbc.com/news/articles/c0qgz18glljo" />
+          <attvalue for="5" value="negative" />
+        </attvalues>
+      </node>
+      <node id="the_white_house_Organization" label="the_white_house_Organization">
+        <attvalues>
+          <attvalue for="6" value="The White House" />
+          <attvalue for="0" value="Organization" />
+          <attvalue for="7" value="negative" />
+          <attvalue for="8" value="negative" />
+        </attvalues>
+      </node>
+      <node id="trump_Person" label="trump_Person">
+        <attvalues>
+          <attvalue for="6" value="Trump" />
+          <attvalue for="0" value="Person" />
+          <attvalue for="7" value="neutral,negative,neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="article_2" label="article_2">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="Maga says Pope Leo may be American, but he's not 'America first'" />
+          <attvalue for="2" value="BBC World" />
+          <attvalue for="3" value="2025-05-10 00:38:27" />
+          <attvalue for="4" value="https://www.bbc.com/news/articles/clyglw20lg2o" />
+          <attvalue for="5" value="negative" />
+        </attvalues>
+      </node>
+      <node id="maga_Organization" label="maga_Organization">
+        <attvalues>
+          <attvalue for="6" value="Maga" />
+          <attvalue for="0" value="Organization" />
+        </attvalues>
+      </node>
+      <node id="pope_leo_xiv_Person" label="pope_leo_xiv_Person">
+        <attvalues>
+          <attvalue for="6" value="Pope Leo XIV" />
+          <attvalue for="0" value="Person" />
+          <attvalue for="7" value="neutral,neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="donald_trump_Person" label="donald_trump_Person">
+        <attvalues>
+          <attvalue for="6" value="Donald Trump" />
+          <attvalue for="0" value="Person" />
+          <attvalue for="7" value="neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="jd_vance_Person" label="jd_vance_Person">
+        <attvalues>
+          <attvalue for="6" value="JD Vance" />
+          <attvalue for="0" value="Person" />
+          <attvalue for="7" value="negative" />
+          <attvalue for="8" value="negative" />
+        </attvalues>
+      </node>
+      <node id="american_Location" label="american_Location">
+        <attvalues>
+          <attvalue for="6" value="American" />
+          <attvalue for="0" value="Location" />
+        </attvalues>
+      </node>
+      <node id="america_Location" label="america_Location">
+        <attvalues>
+          <attvalue for="6" value="America" />
+          <attvalue for="0" value="Location" />
+        </attvalues>
+      </node>
+      <node id="article_3" label="article_3">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="Taylor Swift criticises Lively-Baldoni court summons" />
+          <attvalue for="2" value="BBC World" />
+          <attvalue for="3" value="2025-05-10 11:47:50" />
+          <attvalue for="4" value="https://www.bbc.com/news/articles/c1kv7v3z70jo" />
+          <attvalue for="5" value="negative" />
+        </attvalues>
+      </node>
+      <node id="taylor_swift_Person" label="taylor_swift_Person">
+        <attvalues>
+          <attvalue for="6" value="Taylor Swift" />
+          <attvalue for="0" value="Person" />
+          <attvalue for="7" value="negative" />
+          <attvalue for="8" value="negative" />
+        </attvalues>
+      </node>
+      <node id="lively-baldoni_Person" label="lively-baldoni_Person">
+        <attvalues>
+          <attvalue for="6" value="Lively-Baldoni" />
+          <attvalue for="0" value="Person" />
+          <attvalue for="7" value="negative" />
+          <attvalue for="8" value="negative" />
+        </attvalues>
+      </node>
+      <node id="article_4" label="article_4">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="How will Pope Leo lead? His first days may yield clues" />
+          <attvalue for="2" value="BBC World" />
+          <attvalue for="3" value="2025-05-10 03:04:49" />
+          <attvalue for="4" value="https://www.bbc.com/news/articles/c2e3d888p44o" />
+          <attvalue for="5" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="catholic_church_Organization" label="catholic_church_Organization">
+        <attvalues>
+          <attvalue for="6" value="Catholic Church" />
+          <attvalue for="0" value="Organization" />
+          <attvalue for="7" value="neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="pope_leo_Person" label="pope_leo_Person">
+        <attvalues>
+          <attvalue for="6" value="Pope Leo" />
+          <attvalue for="0" value="Person" />
+          <attvalue for="7" value="neutral,neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="article_5" label="article_5">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="Elton John and Dua Lipa seek protection from AI" />
+          <attvalue for="2" value="BBC World" />
+          <attvalue for="3" value="2025-05-10 00:27:24" />
+          <attvalue for="4" value="https://www.bbc.com/news/articles/c071elp1rv1o" />
+          <attvalue for="5" value="negative" />
+        </attvalues>
+      </node>
+      <node id="ai_Organization" label="ai_Organization">
+        <attvalues>
+          <attvalue for="6" value="AI" />
+          <attvalue for="0" value="Organization" />
+          <attvalue for="7" value="negative,negative" />
+          <attvalue for="8" value="negative" />
+        </attvalues>
+      </node>
+      <node id="elton_john_Person" label="elton_john_Person">
+        <attvalues>
+          <attvalue for="6" value="Elton John" />
+          <attvalue for="0" value="Person" />
+          <attvalue for="7" value="neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="dua_lipa_Person" label="dua_lipa_Person">
+        <attvalues>
+          <attvalue for="6" value="Dua Lipa" />
+          <attvalue for="0" value="Person" />
+          <attvalue for="7" value="neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="sir_keir_starmer_Person" label="sir_keir_starmer_Person">
+        <attvalues>
+          <attvalue for="6" value="Sir Keir Starmer" />
+          <attvalue for="0" value="Person" />
+          <attvalue for="7" value="neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="article_6" label="article_6">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="Mexico sues Google over 'Gulf of America' name change" />
+          <attvalue for="2" value="BBC World" />
+          <attvalue for="3" value="2025-05-09 18:10:02" />
+          <attvalue for="4" value="https://www.bbc.com/news/articles/c5yk5nj7p7ko" />
+          <attvalue for="5" value="negative" />
+        </attvalues>
+      </node>
+      <node id="google_Organization" label="google_Organization">
+        <attvalues>
+          <attvalue for="6" value="Google" />
+          <attvalue for="0" value="Organization" />
+          <attvalue for="7" value="negative,negative" />
+          <attvalue for="8" value="negative" />
+        </attvalues>
+      </node>
+      <node id="sheinbaum_Person" label="sheinbaum_Person">
+        <attvalues>
+          <attvalue for="6" value="Sheinbaum" />
+          <attvalue for="0" value="Person" />
+          <attvalue for="7" value="neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="mexico_Location" label="mexico_Location">
+        <attvalues>
+          <attvalue for="6" value="Mexico" />
+          <attvalue for="0" value="Location" />
+          <attvalue for="7" value="negative,neutral" />
+          <attvalue for="8" value="negative" />
+        </attvalues>
+      </node>
+      <node id="gulf_of_america_Location" label="gulf_of_america_Location">
+        <attvalues>
+          <attvalue for="6" value="Gulf of America" />
+          <attvalue for="0" value="Location" />
+        </attvalues>
+      </node>
+      <node id="us_Location" label="us_Location">
+        <attvalues>
+          <attvalue for="6" value="US" />
+          <attvalue for="0" value="Location" />
+        </attvalues>
+      </node>
+      <node id="article_7" label="article_7">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="Turkish Tufts University student released from immigration facility" />
+          <attvalue for="2" value="BBC World" />
+          <attvalue for="3" value="2025-05-10 00:04:32" />
+          <attvalue for="4" value="https://www.bbc.com/news/articles/cp3nd0dwlpgo" />
+          <attvalue for="5" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="tufts_university_Organization" label="tufts_university_Organization">
+        <attvalues>
+          <attvalue for="6" value="Tufts University" />
+          <attvalue for="0" value="Organization" />
+        </attvalues>
+      </node>
+      <node id="white_house_Organization" label="white_house_Organization">
+        <attvalues>
+          <attvalue for="6" value="White House" />
+          <attvalue for="0" value="Organization" />
+          <attvalue for="7" value="negative,neutral" />
+          <attvalue for="8" value="negative" />
+        </attvalues>
+      </node>
+      <node id="article_8" label="article_8">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="US confirms plan for private firms to deliver Gaza aid despite UN alarm" />
+          <attvalue for="2" value="BBC World" />
+          <attvalue for="3" value="2025-05-09 15:20:18" />
+          <attvalue for="4" value="https://www.bbc.com/news/articles/cp92rlm300mo" />
+          <attvalue for="5" value="negative" />
+        </attvalues>
+      </node>
+      <node id="us_Organization" label="us_Organization">
+        <attvalues>
+          <attvalue for="6" value="US" />
+          <attvalue for="0" value="Organization" />
+          <attvalue for="7" value="neutral,neutral,neutral,neutral,neutral,neutral,negative" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="un_Organization" label="un_Organization">
+        <attvalues>
+          <attvalue for="6" value="UN" />
+          <attvalue for="0" value="Organization" />
+          <attvalue for="7" value="negative" />
+          <attvalue for="8" value="negative" />
+        </attvalues>
+      </node>
+      <node id="gaza_Location" label="gaza_Location">
+        <attvalues>
+          <attvalue for="6" value="Gaza" />
+          <attvalue for="0" value="Location" />
+          <attvalue for="7" value="negative,negative,negative,negative" />
+          <attvalue for="8" value="negative" />
+        </attvalues>
+      </node>
+      <node id="article_9" label="article_9">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="Xi shows he wants to be close to Putin - but not too close" />
+          <attvalue for="2" value="BBC World" />
+          <attvalue for="3" value="2025-05-09 14:07:06" />
+          <attvalue for="4" value="https://www.bbc.com/news/articles/c753ng233nvo" />
+          <attvalue for="5" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="xi_Person" label="xi_Person">
+        <attvalues>
+          <attvalue for="6" value="Xi" />
+          <attvalue for="0" value="Person" />
+          <attvalue for="7" value="positive" />
+          <attvalue for="8" value="positive" />
+        </attvalues>
+      </node>
+      <node id="putin_Person" label="putin_Person">
+        <attvalues>
+          <attvalue for="6" value="Putin" />
+          <attvalue for="0" value="Person" />
+          <attvalue for="7" value="neutral,neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="china_Location" label="china_Location">
+        <attvalues>
+          <attvalue for="6" value="China" />
+          <attvalue for="0" value="Location" />
+          <attvalue for="7" value="neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="article_10" label="article_10">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="No water, no power - Port Sudan reeling after week of attacks" />
+          <attvalue for="2" value="BBC World" />
+          <attvalue for="3" value="2025-05-10 04:14:11" />
+          <attvalue for="4" value="https://www.bbc.com/news/articles/c6293qgd46zo" />
+          <attvalue for="5" value="negative" />
+        </attvalues>
+      </node>
+      <node id="port_sudan_Location" label="port_sudan_Location">
+        <attvalues>
+          <attvalue for="6" value="Port Sudan" />
+          <attvalue for="0" value="Location" />
+          <attvalue for="7" value="negative" />
+          <attvalue for="8" value="negative" />
+        </attvalues>
+      </node>
+      <node id="civil_war_Event" label="civil_war_Event">
+        <attvalues>
+          <attvalue for="6" value="civil war" />
+          <attvalue for="0" value="Event" />
+        </attvalues>
+      </node>
+      <node id="attacks_Event" label="attacks_Event">
+        <attvalues>
+          <attvalue for="6" value="attacks" />
+          <attvalue for="0" value="Event" />
+        </attvalues>
+      </node>
+      <node id="bombardments_Event" label="bombardments_Event">
+        <attvalues>
+          <attvalue for="6" value="bombardments" />
+          <attvalue for="0" value="Event" />
+        </attvalues>
+      </node>
+      <node id="article_11" label="article_11">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="Moon dust 'rarer than gold' arrives in UK from China" />
+          <attvalue for="2" value="BBC World" />
+          <attvalue for="3" value="2025-05-08 23:25:38" />
+          <attvalue for="4" value="https://www.bbc.com/news/articles/c4g3krykxypo" />
+          <attvalue for="5" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="china_Organization" label="china_Organization">
+        <attvalues>
+          <attvalue for="6" value="China" />
+          <attvalue for="0" value="Organization" />
+          <attvalue for="7" value="neutral,neutral,neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="moon_Location" label="moon_Location">
+        <attvalues>
+          <attvalue for="6" value="Moon" />
+          <attvalue for="0" value="Location" />
+        </attvalues>
+      </node>
+      <node id="uk_Location" label="uk_Location">
+        <attvalues>
+          <attvalue for="6" value="UK" />
+          <attvalue for="0" value="Location" />
+          <attvalue for="7" value="neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="moon_dust_Product" label="moon_dust_Product">
+        <attvalues>
+          <attvalue for="6" value="Moon dust" />
+          <attvalue for="0" value="Product" />
+          <attvalue for="7" value="neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="gold_Product" label="gold_Product">
+        <attvalues>
+          <attvalue for="6" value="gold" />
+          <attvalue for="0" value="Product" />
+        </attvalues>
+      </node>
+      <node id="article_12" label="article_12">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="'I freaked out and spent $400 online': US consumers on cheap shipping changes" />
+          <attvalue for="2" value="BBC World" />
+          <attvalue for="3" value="2025-05-10 04:01:38" />
+          <attvalue for="4" value="https://www.bbc.com/news/articles/c4g2j45d5zeo" />
+          <attvalue for="5" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="article_13" label="article_13">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="Witchcraft, innuendo and moody goth boys: Your guide to all 37 Eurovision songs" />
+          <attvalue for="2" value="BBC World" />
+          <attvalue for="3" value="2025-05-10 03:15:58" />
+          <attvalue for="4" value="https://www.bbc.com/news/articles/c9vg8k4zxk9o" />
+          <attvalue for="5" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="eurovision_Event" label="eurovision_Event">
+        <attvalues>
+          <attvalue for="6" value="Eurovision" />
+          <attvalue for="0" value="Event" />
+          <attvalue for="7" value="neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="eurovision_2025_Event" label="eurovision_2025_Event">
+        <attvalues>
+          <attvalue for="6" value="Eurovision 2025" />
+          <attvalue for="0" value="Event" />
+          <attvalue for="7" value="neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="article_14" label="article_14">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="The US and China are finally talking. Why now?" />
+          <attvalue for="2" value="BBC World" />
+          <attvalue for="3" value="2025-05-09 22:57:32" />
+          <attvalue for="4" value="https://www.bbc.com/news/articles/c74qjjvzlgjo" />
+          <attvalue for="5" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="xi_jinping_Person" label="xi_jinping_Person">
+        <attvalues>
+          <attvalue for="6" value="Xi Jinping" />
+          <attvalue for="0" value="Person" />
+          <attvalue for="7" value="neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="trade_war_Event" label="trade_war_Event">
+        <attvalues>
+          <attvalue for="6" value="trade war" />
+          <attvalue for="0" value="Event" />
+          <attvalue for="7" value="negative,negative" />
+          <attvalue for="8" value="negative" />
+        </attvalues>
+      </node>
+      <node id="article_15" label="article_15">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="How can India and Pakistan find a way to de-escalate?" />
+          <attvalue for="2" value="BBC World" />
+          <attvalue for="3" value="2025-05-09 15:20:10" />
+          <attvalue for="4" value="https://www.bbc.com/news/articles/clyzg8ygeezo" />
+          <attvalue for="5" value="negative" />
+        </attvalues>
+      </node>
+      <node id="india_Location" label="india_Location">
+        <attvalues>
+          <attvalue for="6" value="India" />
+          <attvalue for="0" value="Location" />
+          <attvalue for="7" value="negative" />
+          <attvalue for="8" value="negative" />
+        </attvalues>
+      </node>
+      <node id="pakistan_Location" label="pakistan_Location">
+        <attvalues>
+          <attvalue for="6" value="Pakistan" />
+          <attvalue for="0" value="Location" />
+          <attvalue for="7" value="negative" />
+          <attvalue for="8" value="negative" />
+        </attvalues>
+      </node>
+      <node id="article_16" label="article_16">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="Hong Kong pro-China informer: 'Why I've reported dozens of people to police'" />
+          <attvalue for="2" value="BBC World" />
+          <attvalue for="3" value="2025-05-08 23:02:07" />
+          <attvalue for="4" value="https://www.bbc.com/news/articles/c87p97w72exo" />
+          <attvalue for="5" value="negative" />
+        </attvalues>
+      </node>
+      <node id="beijing_Organization" label="beijing_Organization">
+        <attvalues>
+          <attvalue for="6" value="Beijing" />
+          <attvalue for="0" value="Organization" />
+          <attvalue for="7" value="negative" />
+          <attvalue for="8" value="negative" />
+        </attvalues>
+      </node>
+      <node id="innes_tang_Person" label="innes_tang_Person">
+        <attvalues>
+          <attvalue for="6" value="Innes Tang" />
+          <attvalue for="0" value="Person" />
+          <attvalue for="7" value="negative" />
+          <attvalue for="8" value="negative" />
+        </attvalues>
+      </node>
+      <node id="hong_kong_Location" label="hong_kong_Location">
+        <attvalues>
+          <attvalue for="6" value="Hong Kong" />
+          <attvalue for="0" value="Location" />
+          <attvalue for="7" value="negative" />
+          <attvalue for="8" value="negative" />
+        </attvalues>
+      </node>
+      <node id="article_17" label="article_17">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="White House 'actively looking at' suspending habeas corpus" />
+          <attvalue for="2" value="BBC World" />
+          <attvalue for="3" value="2025-05-10 10:24:28" />
+          <attvalue for="4" value="https://www.bbc.com/news/videos/cj0949qnlz2o" />
+          <attvalue for="5" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="trump_administration_Organization" label="trump_administration_Organization">
+        <attvalues>
+          <attvalue for="6" value="Trump administration" />
+          <attvalue for="0" value="Organization" />
+          <attvalue for="7" value="neutral,negative" />
+          <attvalue for="8" value="negative" />
+        </attvalues>
+      </node>
+      <node id="miller_Person" label="miller_Person">
+        <attvalues>
+          <attvalue for="6" value="Miller" />
+          <attvalue for="0" value="Person" />
+          <attvalue for="7" value="neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="article_18" label="article_18">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="Watch: Steve Rosenberg reports from Russia's Red Square on Victory Day" />
+          <attvalue for="2" value="BBC World" />
+          <attvalue for="3" value="2025-05-09 16:52:33" />
+          <attvalue for="4" value="https://www.bbc.com/news/videos/cwyvx9zeq04o" />
+          <attvalue for="5" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="russia_Organization" label="russia_Organization">
+        <attvalues>
+          <attvalue for="6" value="Russia" />
+          <attvalue for="0" value="Organization" />
+          <attvalue for="7" value="neutral,neutral,negative,negative" />
+          <attvalue for="8" value="negative" />
+        </attvalues>
+      </node>
+      <node id="moscow_Organization" label="moscow_Organization">
+        <attvalues>
+          <attvalue for="6" value="Moscow" />
+          <attvalue for="0" value="Organization" />
+        </attvalues>
+      </node>
+      <node id="steve_rosenberg_Person" label="steve_rosenberg_Person">
+        <attvalues>
+          <attvalue for="6" value="Steve Rosenberg" />
+          <attvalue for="0" value="Person" />
+          <attvalue for="7" value="neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="vladimir_putin_Person" label="vladimir_putin_Person">
+        <attvalues>
+          <attvalue for="6" value="Vladimir Putin" />
+          <attvalue for="0" value="Person" />
+          <attvalue for="7" value="neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="red_square_Location" label="red_square_Location">
+        <attvalues>
+          <attvalue for="6" value="Red Square" />
+          <attvalue for="0" value="Location" />
+          <attvalue for="7" value="neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="victory_day_Event" label="victory_day_Event">
+        <attvalues>
+          <attvalue for="6" value="Victory Day" />
+          <attvalue for="0" value="Event" />
+          <attvalue for="7" value="neutral,neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="annual_parade_Event" label="annual_parade_Event">
+        <attvalues>
+          <attvalue for="6" value="annual parade" />
+          <attvalue for="0" value="Event" />
+        </attvalues>
+      </node>
+      <node id="article_19" label="article_19">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="Watch: Trump misspeaks and calls toy firm Mattel a country" />
+          <attvalue for="2" value="BBC World" />
+          <attvalue for="3" value="2025-05-09 14:30:30" />
+          <attvalue for="4" value="https://www.bbc.com/news/videos/cn4q950zxgqo" />
+          <attvalue for="5" value="negative" />
+        </attvalues>
+      </node>
+      <node id="mattel_Organization" label="mattel_Organization">
+        <attvalues>
+          <attvalue for="6" value="Mattel" />
+          <attvalue for="0" value="Organization" />
+          <attvalue for="7" value="neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="article_20" label="article_20">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="Three things we learned from Putin's Red Square parade" />
+          <attvalue for="2" value="BBC World" />
+          <attvalue for="3" value="2025-05-09 13:06:20" />
+          <attvalue for="4" value="https://www.bbc.com/news/videos/ce398qkn5pno" />
+          <attvalue for="5" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="bc_monitoring_Organization" label="bc_monitoring_Organization">
+        <attvalues>
+          <attvalue for="6" value="BC Monitoring" />
+          <attvalue for="0" value="Organization" />
+        </attvalues>
+      </node>
+      <node id="vitaly_shevchenko_Person" label="vitaly_shevchenko_Person">
+        <attvalues>
+          <attvalue for="6" value="Vitaly Shevchenko" />
+          <attvalue for="0" value="Person" />
+          <attvalue for="7" value="neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="moscow_Location" label="moscow_Location">
+        <attvalues>
+          <attvalue for="6" value="Moscow" />
+          <attvalue for="0" value="Location" />
+        </attvalues>
+      </node>
+      <node id="article_21" label="article_21">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="Watch: Pope Leo XIV's first Mass as pontiff" />
+          <attvalue for="2" value="BBC World" />
+          <attvalue for="3" value="2025-05-09 11:14:27" />
+          <attvalue for="4" value="https://www.bbc.com/news/videos/clynwrek3exo" />
+          <attvalue for="5" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="cardinals_Organization" label="cardinals_Organization">
+        <attvalues>
+          <attvalue for="6" value="Cardinals" />
+          <attvalue for="0" value="Organization" />
+          <attvalue for="7" value="neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="sistine_chapel_Location" label="sistine_chapel_Location">
+        <attvalues>
+          <attvalue for="6" value="Sistine Chapel" />
+          <attvalue for="0" value="Location" />
+          <attvalue for="7" value="neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="mass_Event" label="mass_Event">
+        <attvalues>
+          <attvalue for="6" value="Mass" />
+          <attvalue for="0" value="Event" />
+        </attvalues>
+      </node>
+      <node id="article_22" label="article_22">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="Iran’s FM visits Saudi Arabia, Qatar before nuclear talks with US in Oman" />
+          <attvalue for="2" value="Al Jazeera" />
+          <attvalue for="3" value="2025-05-10 14:55:39" />
+          <attvalue for="4" value="https://www.aljazeera.com/news/2025/5/10/irans-fm-visits-saudi-arabia-qatar-before-nuclear-talks-with-us-in-oman?traffic_source=rss" />
+          <attvalue for="5" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="iranian_foreign_ministry_Organization" label="iranian_foreign_ministry_Organization">
+        <attvalues>
+          <attvalue for="6" value="Iranian Foreign Ministry" />
+          <attvalue for="0" value="Organization" />
+        </attvalues>
+      </node>
+      <node id="saudi_arabia_Location" label="saudi_arabia_Location">
+        <attvalues>
+          <attvalue for="6" value="Saudi Arabia" />
+          <attvalue for="0" value="Location" />
+          <attvalue for="7" value="neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="qatar_Location" label="qatar_Location">
+        <attvalues>
+          <attvalue for="6" value="Qatar" />
+          <attvalue for="0" value="Location" />
+          <attvalue for="7" value="neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="oman_Location" label="oman_Location">
+        <attvalues>
+          <attvalue for="6" value="Oman" />
+          <attvalue for="0" value="Location" />
+          <attvalue for="7" value="neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="iran_Location" label="iran_Location">
+        <attvalues>
+          <attvalue for="6" value="Iran" />
+          <attvalue for="0" value="Location" />
+          <attvalue for="7" value="neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="nuclear_talks_Event" label="nuclear_talks_Event">
+        <attvalues>
+          <attvalue for="6" value="nuclear talks" />
+          <attvalue for="0" value="Event" />
+        </attvalues>
+      </node>
+      <node id="article_23" label="article_23">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="Pope Leo identifies AI as main challenge in first meeting with cardinals" />
+          <attvalue for="2" value="Al Jazeera" />
+          <attvalue for="3" value="2025-05-10 14:34:01" />
+          <attvalue for="4" value="https://www.aljazeera.com/news/2025/5/10/pope-leo-says-ai-is-main-challenge-for-humanity-in-address-to-cardinals?traffic_source=rss" />
+          <attvalue for="5" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="pope_Organization" label="pope_Organization">
+        <attvalues>
+          <attvalue for="6" value="Pope" />
+          <attvalue for="0" value="Organization" />
+        </attvalues>
+      </node>
+      <node id="pope_francis_Person" label="pope_francis_Person">
+        <attvalues>
+          <attvalue for="6" value="Pope Francis" />
+          <attvalue for="0" value="Person" />
+          <attvalue for="7" value="positive" />
+          <attvalue for="8" value="positive" />
+        </attvalues>
+      </node>
+      <node id="ai_Product" label="ai_Product">
+        <attvalues>
+          <attvalue for="6" value="AI" />
+          <attvalue for="0" value="Product" />
+        </attvalues>
+      </node>
+      <node id="first_meeting_with_cardinals_Event" label="first_meeting_with_cardinals_Event">
+        <attvalues>
+          <attvalue for="6" value="first meeting with cardinals" />
+          <attvalue for="0" value="Event" />
+        </attvalues>
+      </node>
+      <node id="article_24" label="article_24">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="Liverpool vs Arsenal: Premier League – Start time, team news, lineups" />
+          <attvalue for="2" value="Al Jazeera" />
+          <attvalue for="3" value="2025-05-10 12:54:44" />
+          <attvalue for="4" value="https://www.aljazeera.com/sports/2025/5/10/liverpool-vs-arsenal-premier-league-team-news-how-to-follow-stream?traffic_source=rss" />
+          <attvalue for="5" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="liverpool_Organization" label="liverpool_Organization">
+        <attvalues>
+          <attvalue for="6" value="Liverpool" />
+          <attvalue for="0" value="Organization" />
+          <attvalue for="7" value="neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="arsenal_Organization" label="arsenal_Organization">
+        <attvalues>
+          <attvalue for="6" value="Arsenal" />
+          <attvalue for="0" value="Organization" />
+          <attvalue for="7" value="neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="al_jazeera_Organization" label="al_jazeera_Organization">
+        <attvalues>
+          <attvalue for="6" value="Al Jazeera" />
+          <attvalue for="0" value="Organization" />
+          <attvalue for="7" value="neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="premier_league_Organization" label="premier_league_Organization">
+        <attvalues>
+          <attvalue for="6" value="Premier League" />
+          <attvalue for="0" value="Organization" />
+          <attvalue for="7" value="positive" />
+          <attvalue for="8" value="positive" />
+        </attvalues>
+      </node>
+      <node id="article_25" label="article_25">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="China, US hold talks on tariffs in first bid to de-escalate trade war" />
+          <attvalue for="2" value="Al Jazeera" />
+          <attvalue for="3" value="2025-05-10 12:50:13" />
+          <attvalue for="4" value="https://www.aljazeera.com/news/2025/5/10/us-and-chinese-officials-hold-geneva-talks-to-de-escalate-trade-war?traffic_source=rss" />
+          <attvalue for="5" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="switzerland_Location" label="switzerland_Location">
+        <attvalues>
+          <attvalue for="6" value="Switzerland" />
+          <attvalue for="0" value="Location" />
+          <attvalue for="7" value="positive" />
+          <attvalue for="8" value="positive" />
+        </attvalues>
+      </node>
+      <node id="article_26" label="article_26">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="My nephew asks if he will eat meat only in heaven. I struggle to answer" />
+          <attvalue for="2" value="Al Jazeera" />
+          <attvalue for="3" value="2025-05-10 12:10:40" />
+          <attvalue for="4" value="https://www.aljazeera.com/opinions/2025/5/10/my-nephew-asks-if-he-will-eat-meat-only-in-heaven-i-struggle-to-answer?traffic_source=rss" />
+          <attvalue for="5" value="negative" />
+        </attvalues>
+      </node>
+      <node id="famine_Event" label="famine_Event">
+        <attvalues>
+          <attvalue for="6" value="famine" />
+          <attvalue for="0" value="Event" />
+        </attvalues>
+      </node>
+      <node id="article_27" label="article_27">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="US to fast-track investments from Middle East before Trump trip: Report" />
+          <attvalue for="2" value="Al Jazeera" />
+          <attvalue for="3" value="2025-05-10 11:46:13" />
+          <attvalue for="4" value="https://www.aljazeera.com/economy/2025/5/10/us-to-fast-track-investments-from-middle-east-before-trump-trip-report?traffic_source=rss" />
+          <attvalue for="5" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="uae_Organization" label="uae_Organization">
+        <attvalues>
+          <attvalue for="6" value="UAE" />
+          <attvalue for="0" value="Organization" />
+          <attvalue for="7" value="neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="saudi_arabia_Organization" label="saudi_arabia_Organization">
+        <attvalues>
+          <attvalue for="6" value="Saudi Arabia" />
+          <attvalue for="0" value="Organization" />
+          <attvalue for="7" value="neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="qatar_Organization" label="qatar_Organization">
+        <attvalues>
+          <attvalue for="6" value="Qatar" />
+          <attvalue for="0" value="Organization" />
+          <attvalue for="7" value="neutral,neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="bloomberg_news_Organization" label="bloomberg_news_Organization">
+        <attvalues>
+          <attvalue for="6" value="Bloomberg News" />
+          <attvalue for="0" value="Organization" />
+        </attvalues>
+      </node>
+      <node id="middle_east_Location" label="middle_east_Location">
+        <attvalues>
+          <attvalue for="6" value="Middle East" />
+          <attvalue for="0" value="Location" />
+        </attvalues>
+      </node>
+      <node id="article_28" label="article_28">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="Children among 13 killed in Israel’s attacks on Gaza amid aid blockade" />
+          <attvalue for="2" value="Al Jazeera" />
+          <attvalue for="3" value="2025-05-10 11:36:53" />
+          <attvalue for="4" value="https://www.aljazeera.com/news/2025/5/10/israel-kills-in-gaza-as-it-throttles-enclave-under-aid-blockade?traffic_source=rss" />
+          <attvalue for="5" value="negative" />
+        </attvalues>
+      </node>
+      <node id="israel_Organization" label="israel_Organization">
+        <attvalues>
+          <attvalue for="6" value="Israel" />
+          <attvalue for="0" value="Organization" />
+          <attvalue for="7" value="negative,negative,negative,negative" />
+          <attvalue for="8" value="negative" />
+        </attvalues>
+      </node>
+      <node id="medicine_Product" label="medicine_Product">
+        <attvalues>
+          <attvalue for="6" value="medicine" />
+          <attvalue for="0" value="Product" />
+        </attvalues>
+      </node>
+      <node id="aid_blockade_Event" label="aid_blockade_Event">
+        <attvalues>
+          <attvalue for="6" value="aid blockade" />
+          <attvalue for="0" value="Event" />
+        </attvalues>
+      </node>
+      <node id="ban_on_entry_of_all_items_Event" label="ban_on_entry_of_all_items_Event">
+        <attvalues>
+          <attvalue for="6" value="ban on entry of all items" />
+          <attvalue for="0" value="Event" />
+        </attvalues>
+      </node>
+      <node id="article_29" label="article_29">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="Qatar leads Syria search for bodies of US hostages killed by ISIL: Report" />
+          <attvalue for="2" value="Al Jazeera" />
+          <attvalue for="3" value="2025-05-10 10:21:07" />
+          <attvalue for="4" value="https://www.aljazeera.com/news/2025/5/10/qatari-mission-searches-for-bodies-of-us-hostages-killed-by-isil-in-syria?traffic_source=rss" />
+          <attvalue for="5" value="negative" />
+        </attvalues>
+      </node>
+      <node id="isil_Organization" label="isil_Organization">
+        <attvalues>
+          <attvalue for="6" value="ISIL" />
+          <attvalue for="0" value="Organization" />
+          <attvalue for="7" value="negative" />
+          <attvalue for="8" value="negative" />
+        </attvalues>
+      </node>
+      <node id="syria_Location" label="syria_Location">
+        <attvalues>
+          <attvalue for="6" value="Syria" />
+          <attvalue for="0" value="Location" />
+          <attvalue for="7" value="negative" />
+          <attvalue for="8" value="negative" />
+        </attvalues>
+      </node>
+      <node id="article_30" label="article_30">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="Iraq look to former Australia coach Arnold to boost 2026 World Cup hopes" />
+          <attvalue for="2" value="Al Jazeera" />
+          <attvalue for="3" value="2025-05-10 09:43:04" />
+          <attvalue for="4" value="https://www.aljazeera.com/sports/2025/5/10/iraq-look-to-former-australia-coach-arnold-to-boost-2026-world-cup-hopes?traffic_source=rss" />
+          <attvalue for="5" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="australia_Organization" label="australia_Organization">
+        <attvalues>
+          <attvalue for="6" value="Australia" />
+          <attvalue for="0" value="Organization" />
+          <attvalue for="7" value="neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="jesus_casas_Person" label="jesus_casas_Person">
+        <attvalues>
+          <attvalue for="6" value="Jesus Casas" />
+          <attvalue for="0" value="Person" />
+          <attvalue for="7" value="neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="graham_arnold_Person" label="graham_arnold_Person">
+        <attvalues>
+          <attvalue for="6" value="Graham Arnold" />
+          <attvalue for="0" value="Person" />
+          <attvalue for="7" value="positive" />
+          <attvalue for="8" value="positive" />
+        </attvalues>
+      </node>
+      <node id="iraq_Location" label="iraq_Location">
+        <attvalues>
+          <attvalue for="6" value="Iraq" />
+          <attvalue for="0" value="Location" />
+          <attvalue for="7" value="neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="world_cup_qualifiers_Event" label="world_cup_qualifiers_Event">
+        <attvalues>
+          <attvalue for="6" value="World Cup qualifiers" />
+          <attvalue for="0" value="Event" />
+        </attvalues>
+      </node>
+      <node id="article_31" label="article_31">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="Pakistan launches Operation Bunyan Marsoos: What we know so far" />
+          <attvalue for="2" value="Al Jazeera" />
+          <attvalue for="3" value="2025-05-10 09:39:23" />
+          <attvalue for="4" value="https://www.aljazeera.com/news/2025/5/10/pakistan-launches-operation-bunyan-marsoos-what-we-know-so-far?traffic_source=rss" />
+          <attvalue for="5" value="negative" />
+        </attvalues>
+      </node>
+      <node id="pakistan_Organization" label="pakistan_Organization">
+        <attvalues>
+          <attvalue for="6" value="Pakistan" />
+          <attvalue for="0" value="Organization" />
+          <attvalue for="7" value="negative,negative,negative,negative" />
+          <attvalue for="8" value="negative" />
+        </attvalues>
+      </node>
+      <node id="india_Organization" label="india_Organization">
+        <attvalues>
+          <attvalue for="6" value="India" />
+          <attvalue for="0" value="Organization" />
+          <attvalue for="7" value="negative,negative,negative,negative" />
+          <attvalue for="8" value="negative" />
+        </attvalues>
+      </node>
+      <node id="missiles_Product" label="missiles_Product">
+        <attvalues>
+          <attvalue for="6" value="missiles" />
+          <attvalue for="0" value="Product" />
+        </attvalues>
+      </node>
+      <node id="operation_bunyan_marsoos_Event" label="operation_bunyan_marsoos_Event">
+        <attvalues>
+          <attvalue for="6" value="Operation Bunyan Marsoos" />
+          <attvalue for="0" value="Event" />
+        </attvalues>
+      </node>
+      <node id="article_32" label="article_32">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="Pakistan postpones PSL T20 cricket amid clashes with India" />
+          <attvalue for="2" value="Al Jazeera" />
+          <attvalue for="3" value="2025-05-10 08:59:20" />
+          <attvalue for="4" value="https://www.aljazeera.com/sports/2025/5/10/pakistan-postpones-psl-t20-cricket-amid-clashes-with-india?traffic_source=rss" />
+          <attvalue for="5" value="negative" />
+        </attvalues>
+      </node>
+      <node id="psl_Organization" label="psl_Organization">
+        <attvalues>
+          <attvalue for="6" value="PSL" />
+          <attvalue for="0" value="Organization" />
+          <attvalue for="7" value="negative" />
+          <attvalue for="8" value="negative" />
+        </attvalues>
+      </node>
+      <node id="uae_Location" label="uae_Location">
+        <attvalues>
+          <attvalue for="6" value="UAE" />
+          <attvalue for="0" value="Location" />
+        </attvalues>
+      </node>
+      <node id="twenty20_league_Event" label="twenty20_league_Event">
+        <attvalues>
+          <attvalue for="6" value="Twenty20 league" />
+          <attvalue for="0" value="Event" />
+        </attvalues>
+      </node>
+      <node id="article_33" label="article_33">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="Nuggets outlast Thunder in Game 3 overtime thriller in NBA playoffs" />
+          <attvalue for="2" value="Al Jazeera" />
+          <attvalue for="3" value="2025-05-10 08:13:49" />
+          <attvalue for="4" value="https://www.aljazeera.com/sports/2025/5/10/nuggets-outlast-thunder-in-game-3-overtime-thriller-in-nba-playoffs?traffic_source=rss" />
+          <attvalue for="5" value="positive" />
+        </attvalues>
+      </node>
+      <node id="nuggets_Organization" label="nuggets_Organization">
+        <attvalues>
+          <attvalue for="6" value="Nuggets" />
+          <attvalue for="0" value="Organization" />
+          <attvalue for="7" value="positive" />
+          <attvalue for="8" value="positive" />
+        </attvalues>
+      </node>
+      <node id="thunder_Organization" label="thunder_Organization">
+        <attvalues>
+          <attvalue for="6" value="Thunder" />
+          <attvalue for="0" value="Organization" />
+          <attvalue for="7" value="negative" />
+          <attvalue for="8" value="negative" />
+        </attvalues>
+      </node>
+      <node id="okc_thunder_Organization" label="okc_thunder_Organization">
+        <attvalues>
+          <attvalue for="6" value="OKC Thunder" />
+          <attvalue for="0" value="Organization" />
+        </attvalues>
+      </node>
+      <node id="nba_Organization" label="nba_Organization">
+        <attvalues>
+          <attvalue for="6" value="NBA" />
+          <attvalue for="0" value="Organization" />
+        </attvalues>
+      </node>
+      <node id="denver_Location" label="denver_Location">
+        <attvalues>
+          <attvalue for="6" value="Denver" />
+          <attvalue for="0" value="Location" />
+        </attvalues>
+      </node>
+      <node id="game_3_Event" label="game_3_Event">
+        <attvalues>
+          <attvalue for="6" value="Game 3" />
+          <attvalue for="0" value="Event" />
+        </attvalues>
+      </node>
+      <node id="game_2_Event" label="game_2_Event">
+        <attvalues>
+          <attvalue for="6" value="Game 2" />
+          <attvalue for="0" value="Event" />
+        </attvalues>
+      </node>
+      <node id="nba_playoffs_Event" label="nba_playoffs_Event">
+        <attvalues>
+          <attvalue for="6" value="NBA playoffs" />
+          <attvalue for="0" value="Event" />
+        </attvalues>
+      </node>
+      <node id="playoff_series_Event" label="playoff_series_Event">
+        <attvalues>
+          <attvalue for="6" value="playoff series" />
+          <attvalue for="0" value="Event" />
+        </attvalues>
+      </node>
+      <node id="article_34" label="article_34">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="Russia-Ukraine war: List of key events, day 1,171" />
+          <attvalue for="2" value="Al Jazeera" />
+          <attvalue for="3" value="2025-05-10 08:06:25" />
+          <attvalue for="4" value="https://www.aljazeera.com/news/2025/5/10/russia-ukraine-war-list-of-key-events-day-1171?traffic_source=rss" />
+          <attvalue for="5" value="negative" />
+        </attvalues>
+      </node>
+      <node id="war_Event" label="war_Event">
+        <attvalues>
+          <attvalue for="6" value="war" />
+          <attvalue for="0" value="Event" />
+        </attvalues>
+      </node>
+      <node id="article_35" label="article_35">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="European leaders in Ukraine’s Kyiv press Russia for 30-day ceasefire" />
+          <attvalue for="2" value="Al Jazeera" />
+          <attvalue for="3" value="2025-05-10 08:02:39" />
+          <attvalue for="4" value="https://www.aljazeera.com/news/2025/5/10/european-leaders-in-ukraines-kyiv-to-press-russia-for-30-day-ceasefire?traffic_source=rss" />
+          <attvalue for="5" value="negative" />
+        </attvalues>
+      </node>
+      <node id="european_leaders_Organization" label="european_leaders_Organization">
+        <attvalues>
+          <attvalue for="6" value="European leaders" />
+          <attvalue for="0" value="Organization" />
+          <attvalue for="7" value="neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="kremlin_Organization" label="kremlin_Organization">
+        <attvalues>
+          <attvalue for="6" value="Kremlin" />
+          <attvalue for="0" value="Organization" />
+          <attvalue for="7" value="negative" />
+          <attvalue for="8" value="negative" />
+        </attvalues>
+      </node>
+      <node id="kyiv_Location" label="kyiv_Location">
+        <attvalues>
+          <attvalue for="6" value="Kyiv" />
+          <attvalue for="0" value="Location" />
+        </attvalues>
+      </node>
+      <node id="truce_Event" label="truce_Event">
+        <attvalues>
+          <attvalue for="6" value="truce" />
+          <attvalue for="0" value="Event" />
+        </attvalues>
+      </node>
+      <node id="sanctions_Event" label="sanctions_Event">
+        <attvalues>
+          <attvalue for="6" value="sanctions" />
+          <attvalue for="0" value="Event" />
+        </attvalues>
+      </node>
+      <node id="article_36" label="article_36">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="Netanyahu’s war choices fuel discord in Israel over captives’ fate in Gaza" />
+          <attvalue for="2" value="Al Jazeera" />
+          <attvalue for="3" value="2025-05-10 07:11:05" />
+          <attvalue for="4" value="https://www.aljazeera.com/news/2025/5/10/netanyahus-war-choices-fuel-discord-in-israel-over-captives-fate-in-gaza?traffic_source=rss" />
+          <attvalue for="5" value="negative" />
+        </attvalues>
+      </node>
+      <node id="israeli_Organization" label="israeli_Organization">
+        <attvalues>
+          <attvalue for="6" value="Israeli" />
+          <attvalue for="0" value="Organization" />
+        </attvalues>
+      </node>
+      <node id="netanyahu_Person" label="netanyahu_Person">
+        <attvalues>
+          <attvalue for="6" value="Netanyahu" />
+          <attvalue for="0" value="Person" />
+          <attvalue for="7" value="negative" />
+          <attvalue for="8" value="negative" />
+        </attvalues>
+      </node>
+      <node id="israel_Location" label="israel_Location">
+        <attvalues>
+          <attvalue for="6" value="Israel" />
+          <attvalue for="0" value="Location" />
+        </attvalues>
+      </node>
+      <node id="article_37" label="article_37">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="After Israel’s bombs, Nabatieh’s Monday Market revives itself once again" />
+          <attvalue for="2" value="Al Jazeera" />
+          <attvalue for="3" value="2025-05-10 07:10:40" />
+          <attvalue for="4" value="https://www.aljazeera.com/features/2025/5/10/after-israel-bombs-nabatieh-monday-market-revives-itself-once-again?traffic_source=rss" />
+          <attvalue for="5" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="nabatieh_Location" label="nabatieh_Location">
+        <attvalues>
+          <attvalue for="6" value="Nabatieh" />
+          <attvalue for="0" value="Location" />
+          <attvalue for="7" value="positive" />
+          <attvalue for="8" value="positive" />
+        </attvalues>
+      </node>
+      <node id="lebanon_Location" label="lebanon_Location">
+        <attvalues>
+          <attvalue for="6" value="Lebanon" />
+          <attvalue for="0" value="Location" />
+        </attvalues>
+      </node>
+      <node id="war_on_lebanon_Event" label="war_on_lebanon_Event">
+        <attvalues>
+          <attvalue for="6" value="war on Lebanon" />
+          <attvalue for="0" value="Event" />
+        </attvalues>
+      </node>
+      <node id="article_38" label="article_38">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="Reporting from behind shifting front lines in Myanmar’s civil war" />
+          <attvalue for="2" value="Al Jazeera" />
+          <attvalue for="3" value="2025-05-10 03:38:43" />
+          <attvalue for="4" value="https://www.aljazeera.com/news/2025/5/10/reporting-from-behind-shifting-front-lines-in-myanmars-civil-war?traffic_source=rss" />
+          <attvalue for="5" value="negative" />
+        </attvalues>
+      </node>
+      <node id="shwe_phee_myay_Organization" label="shwe_phee_myay_Organization">
+        <attvalues>
+          <attvalue for="6" value="Shwe Phee Myay" />
+          <attvalue for="0" value="Organization" />
+          <attvalue for="7" value="positive" />
+          <attvalue for="8" value="positive" />
+        </attvalues>
+      </node>
+      <node id="myanmar_Location" label="myanmar_Location">
+        <attvalues>
+          <attvalue for="6" value="Myanmar" />
+          <attvalue for="0" value="Location" />
+          <attvalue for="7" value="negative" />
+          <attvalue for="8" value="negative" />
+        </attvalues>
+      </node>
+      <node id="shan_state_Location" label="shan_state_Location">
+        <attvalues>
+          <attvalue for="6" value="Shan State" />
+          <attvalue for="0" value="Location" />
+          <attvalue for="7" value="neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="article_39" label="article_39">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="Could India, Pakistan use nuclear weapons? Here’s what their doctrines say" />
+          <attvalue for="2" value="Al Jazeera" />
+          <attvalue for="3" value="2025-05-10 03:37:37" />
+          <attvalue for="4" value="https://www.aljazeera.com/news/2025/5/10/could-india-pakistan-use-nuclear-weapons-heres-what-their-doctrines-say?traffic_source=rss" />
+          <attvalue for="5" value="negative" />
+        </attvalues>
+      </node>
+      <node id="nuclear_weapons_Product" label="nuclear_weapons_Product">
+        <attvalues>
+          <attvalue for="6" value="nuclear weapons" />
+          <attvalue for="0" value="Product" />
+          <attvalue for="7" value="negative" />
+          <attvalue for="8" value="negative" />
+        </attvalues>
+      </node>
+      <node id="article_40" label="article_40">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="Newark Mayor Ras Baraka arrested during ICE detention centre protest" />
+          <attvalue for="2" value="Al Jazeera" />
+          <attvalue for="3" value="2025-05-09 23:13:15" />
+          <attvalue for="4" value="https://www.aljazeera.com/news/2025/5/9/newark-mayor-ras-baraka-arrested-during-ice-detention-centre-protest?traffic_source=rss" />
+          <attvalue for="5" value="negative" />
+        </attvalues>
+      </node>
+      <node id="ice_Organization" label="ice_Organization">
+        <attvalues>
+          <attvalue for="6" value="ICE" />
+          <attvalue for="0" value="Organization" />
+          <attvalue for="7" value="negative" />
+          <attvalue for="8" value="negative" />
+        </attvalues>
+      </node>
+      <node id="ras_baraka_Person" label="ras_baraka_Person">
+        <attvalues>
+          <attvalue for="6" value="Ras Baraka" />
+          <attvalue for="0" value="Person" />
+          <attvalue for="7" value="negative" />
+          <attvalue for="8" value="negative" />
+        </attvalues>
+      </node>
+      <node id="newark_Location" label="newark_Location">
+        <attvalues>
+          <attvalue for="6" value="Newark" />
+          <attvalue for="0" value="Location" />
+        </attvalues>
+      </node>
+      <node id="protest_Event" label="protest_Event">
+        <attvalues>
+          <attvalue for="6" value="protest" />
+          <attvalue for="0" value="Event" />
+        </attvalues>
+      </node>
+      <node id="article_41" label="article_41">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="World could be witnessing ‘another Nakba’ in Palestine, UN committee warns" />
+          <attvalue for="2" value="Al Jazeera" />
+          <attvalue for="3" value="2025-05-09 21:32:52" />
+          <attvalue for="4" value="https://www.aljazeera.com/news/2025/5/9/gaza-could-experience-another-nakba-warns-un-committee?traffic_source=rss" />
+          <attvalue for="5" value="negative" />
+        </attvalues>
+      </node>
+      <node id="un_committee_Organization" label="un_committee_Organization">
+        <attvalues>
+          <attvalue for="6" value="UN committee" />
+          <attvalue for="0" value="Organization" />
+        </attvalues>
+      </node>
+      <node id="world_Location" label="world_Location">
+        <attvalues>
+          <attvalue for="6" value="World" />
+          <attvalue for="0" value="Location" />
+          <attvalue for="7" value="negative" />
+          <attvalue for="8" value="negative" />
+        </attvalues>
+      </node>
+      <node id="palestine_Location" label="palestine_Location">
+        <attvalues>
+          <attvalue for="6" value="Palestine" />
+          <attvalue for="0" value="Location" />
+          <attvalue for="7" value="negative" />
+          <attvalue for="8" value="negative" />
+        </attvalues>
+      </node>
+      <node id="occupied_territories_Location" label="occupied_territories_Location">
+        <attvalues>
+          <attvalue for="6" value="occupied territories" />
+          <attvalue for="0" value="Location" />
+        </attvalues>
+      </node>
+      <node id="nakba_Event" label="nakba_Event">
+        <attvalues>
+          <attvalue for="6" value="Nakba" />
+          <attvalue for="0" value="Event" />
+        </attvalues>
+      </node>
+      <node id="article_42" label="article_42">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="US reports second air traffic control outage at New Jersey airport" />
+          <attvalue for="2" value="Al Jazeera" />
+          <attvalue for="3" value="2025-05-09 21:05:15" />
+          <attvalue for="4" value="https://www.aljazeera.com/news/2025/5/9/us-reports-second-air-traffic-control-outage-at-new-jersey-airport?traffic_source=rss" />
+          <attvalue for="5" value="negative" />
+        </attvalues>
+      </node>
+      <node id="new_jersey_Location" label="new_jersey_Location">
+        <attvalues>
+          <attvalue for="6" value="New Jersey" />
+          <attvalue for="0" value="Location" />
+        </attvalues>
+      </node>
+      <node id="air_traffic_control_outage_Event" label="air_traffic_control_outage_Event">
+        <attvalues>
+          <attvalue for="6" value="air traffic control outage" />
+          <attvalue for="0" value="Event" />
+        </attvalues>
+      </node>
+      <node id="article_43" label="article_43">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="India, Pakistan exchange claims over drone strikes" />
+          <attvalue for="2" value="Al Jazeera" />
+          <attvalue for="3" value="2025-05-09 20:57:39" />
+          <attvalue for="4" value="https://www.aljazeera.com/program/newsfeed/2025/5/9/india-pakistan-exchange-claims-over-drone-strikes?traffic_source=rss" />
+          <attvalue for="5" value="negative" />
+        </attvalues>
+      </node>
+      <node id="drone_Product" label="drone_Product">
+        <attvalues>
+          <attvalue for="6" value="drone" />
+          <attvalue for="0" value="Product" />
+        </attvalues>
+      </node>
+      <node id="artillery_Product" label="artillery_Product">
+        <attvalues>
+          <attvalue for="6" value="artillery" />
+          <attvalue for="0" value="Product" />
+        </attvalues>
+      </node>
+      <node id="fighting_Event" label="fighting_Event">
+        <attvalues>
+          <attvalue for="6" value="fighting" />
+          <attvalue for="0" value="Event" />
+        </attvalues>
+      </node>
+      <node id="article_44" label="article_44">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="Mexico is suing Google over ‘Gulf of America’ label, Sheinbaum says" />
+          <attvalue for="2" value="Al Jazeera" />
+          <attvalue for="3" value="2025-05-09 20:49:29" />
+          <attvalue for="4" value="https://www.aljazeera.com/news/2025/5/9/mexico-is-suing-google-over-gulf-of-america-label-sheinbaum-says?traffic_source=rss" />
+          <attvalue for="5" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="gulf_of_mexico_Location" label="gulf_of_mexico_Location">
+        <attvalues>
+          <attvalue for="6" value="Gulf of Mexico" />
+          <attvalue for="0" value="Location" />
+          <attvalue for="7" value="neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="article_45" label="article_45">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="Barcelona vs Real Madrid: El Clasico La Liga start time, team news, lineups" />
+          <attvalue for="2" value="Al Jazeera" />
+          <attvalue for="3" value="2025-05-09 20:38:22" />
+          <attvalue for="4" value="https://www.aljazeera.com/sports/2025/5/9/barcelona-vs-real-madrid-la-liga-el-clasico-team-news-how-to-follow?traffic_source=rss" />
+          <attvalue for="5" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="real_madrid_Organization" label="real_madrid_Organization">
+        <attvalues>
+          <attvalue for="6" value="Real Madrid" />
+          <attvalue for="0" value="Organization" />
+          <attvalue for="7" value="neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="la_liga_Organization" label="la_liga_Organization">
+        <attvalues>
+          <attvalue for="6" value="La Liga" />
+          <attvalue for="0" value="Organization" />
+          <attvalue for="7" value="neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="barcelona_Location" label="barcelona_Location">
+        <attvalues>
+          <attvalue for="6" value="Barcelona" />
+          <attvalue for="0" value="Location" />
+          <attvalue for="7" value="neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="el_clasico_Event" label="el_clasico_Event">
+        <attvalues>
+          <attvalue for="6" value="El Clasico" />
+          <attvalue for="0" value="Event" />
+          <attvalue for="7" value="neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="article_46" label="article_46">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+          <attvalue for="1" value="Mohsen Mahdawi tells Al Jazeera why he refuses to be afraid" />
+          <attvalue for="2" value="Al Jazeera" />
+          <attvalue for="3" value="2025-05-09 20:19:13" />
+          <attvalue for="4" value="https://www.aljazeera.com/video/newsfeed/2025/5/9/mohsen-mahdawi-tells-al-jazeera-why-he-refuses-to-be-afraid?traffic_source=rss" />
+          <attvalue for="5" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="mohsen_mahdawi_Person" label="mohsen_mahdawi_Person">
+        <attvalues>
+          <attvalue for="6" value="Mohsen Mahdawi" />
+          <attvalue for="0" value="Person" />
+          <attvalue for="7" value="neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="kristen_saloomey_Person" label="kristen_saloomey_Person">
+        <attvalues>
+          <attvalue for="6" value="Kristen Saloomey" />
+          <attvalue for="0" value="Person" />
+          <attvalue for="7" value="neutral" />
+          <attvalue for="8" value="neutral" />
+        </attvalues>
+      </node>
+      <node id="arrest_Event" label="arrest_Event">
+        <attvalues>
+          <attvalue for="6" value="arrest" />
+          <attvalue for="0" value="Event" />
+        </attvalues>
+      </node>
+      <node id="imprisonment_Event" label="imprisonment_Event">
+        <attvalues>
+          <attvalue for="6" value="imprisonment" />
+          <attvalue for="0" value="Event" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="article_0" target="france_Organization" id="0" type="mentioned_in" />
+      <edge source="article_0" target="britain_Organization" id="1" type="mentioned_in" />
+      <edge source="article_0" target="germany_Organization" id="2" type="mentioned_in" />
+      <edge source="article_0" target="poland_Organization" id="3" type="mentioned_in" />
+      <edge source="article_0" target="vlodomyr_zelensky_Person" id="4" type="mentioned_in" />
+      <edge source="article_0" target="russia_Location" id="5" type="mentioned_in" />
+      <edge source="article_0" target="ukraine_Location" id="6" type="mentioned_in" />
+      <edge source="article_0" target="european_Location" id="7" type="mentioned_in" />
+      <edge source="article_0" target="ceasefire_Event" id="8" type="mentioned_in" />
+      <edge source="france_Organization" target="britain_Organization" id="9" weight="1" type="co_occurs_with" />
+      <edge source="france_Organization" target="germany_Organization" id="10" weight="1" type="co_occurs_with" />
+      <edge source="france_Organization" target="poland_Organization" id="11" weight="1" type="co_occurs_with" />
+      <edge source="france_Organization" target="vlodomyr_zelensky_Person" id="12" weight="1" type="co_occurs_with" />
+      <edge source="france_Organization" target="russia_Location" id="13" weight="1" type="co_occurs_with" />
+      <edge source="france_Organization" target="ukraine_Location" id="14" weight="1" type="co_occurs_with" />
+      <edge source="france_Organization" target="european_Location" id="15" weight="1" type="co_occurs_with" />
+      <edge source="france_Organization" target="ceasefire_Event" id="16" weight="1" type="co_occurs_with" />
+      <edge source="britain_Organization" target="germany_Organization" id="17" weight="1" type="co_occurs_with" />
+      <edge source="britain_Organization" target="poland_Organization" id="18" weight="1" type="co_occurs_with" />
+      <edge source="britain_Organization" target="vlodomyr_zelensky_Person" id="19" weight="1" type="co_occurs_with" />
+      <edge source="britain_Organization" target="russia_Location" id="20" weight="1" type="co_occurs_with" />
+      <edge source="britain_Organization" target="ukraine_Location" id="21" weight="1" type="co_occurs_with" />
+      <edge source="britain_Organization" target="european_Location" id="22" weight="1" type="co_occurs_with" />
+      <edge source="britain_Organization" target="ceasefire_Event" id="23" weight="1" type="co_occurs_with" />
+      <edge source="germany_Organization" target="poland_Organization" id="24" weight="1" type="co_occurs_with" />
+      <edge source="germany_Organization" target="vlodomyr_zelensky_Person" id="25" weight="1" type="co_occurs_with" />
+      <edge source="germany_Organization" target="russia_Location" id="26" weight="1" type="co_occurs_with" />
+      <edge source="germany_Organization" target="ukraine_Location" id="27" weight="1" type="co_occurs_with" />
+      <edge source="germany_Organization" target="european_Location" id="28" weight="1" type="co_occurs_with" />
+      <edge source="germany_Organization" target="ceasefire_Event" id="29" weight="1" type="co_occurs_with" />
+      <edge source="poland_Organization" target="vlodomyr_zelensky_Person" id="30" weight="1" type="co_occurs_with" />
+      <edge source="poland_Organization" target="russia_Location" id="31" weight="1" type="co_occurs_with" />
+      <edge source="poland_Organization" target="ukraine_Location" id="32" weight="1" type="co_occurs_with" />
+      <edge source="poland_Organization" target="european_Location" id="33" weight="1" type="co_occurs_with" />
+      <edge source="poland_Organization" target="ceasefire_Event" id="34" weight="1" type="co_occurs_with" />
+      <edge source="vlodomyr_zelensky_Person" target="russia_Location" id="35" weight="1" type="co_occurs_with" />
+      <edge source="vlodomyr_zelensky_Person" target="ukraine_Location" id="36" weight="1" type="co_occurs_with" />
+      <edge source="vlodomyr_zelensky_Person" target="european_Location" id="37" weight="1" type="co_occurs_with" />
+      <edge source="vlodomyr_zelensky_Person" target="ceasefire_Event" id="38" weight="1" type="co_occurs_with" />
+      <edge source="russia_Location" target="ukraine_Location" id="39" weight="3" type="co_occurs_with" />
+      <edge source="russia_Location" target="european_Location" id="40" weight="1" type="co_occurs_with" />
+      <edge source="russia_Location" target="ceasefire_Event" id="41" weight="2" type="co_occurs_with" />
+      <edge source="russia_Location" target="article_9" id="42" type="mentioned_in" />
+      <edge source="russia_Location" target="xi_Person" id="43" weight="1" type="co_occurs_with" />
+      <edge source="russia_Location" target="putin_Person" id="44" weight="2" type="co_occurs_with" />
+      <edge source="russia_Location" target="china_Location" id="45" weight="1" type="co_occurs_with" />
+      <edge source="russia_Location" target="article_20" id="46" type="mentioned_in" />
+      <edge source="russia_Location" target="bc_monitoring_Organization" id="47" weight="1" type="co_occurs_with" />
+      <edge source="russia_Location" target="vitaly_shevchenko_Person" id="48" weight="1" type="co_occurs_with" />
+      <edge source="russia_Location" target="red_square_Location" id="49" weight="1" type="co_occurs_with" />
+      <edge source="russia_Location" target="moscow_Location" id="50" weight="1" type="co_occurs_with" />
+      <edge source="russia_Location" target="victory_day_Event" id="51" weight="1" type="co_occurs_with" />
+      <edge source="russia_Location" target="article_34" id="52" type="mentioned_in" />
+      <edge source="russia_Location" target="war_Event" id="53" weight="1" type="co_occurs_with" />
+      <edge source="russia_Location" target="article_35" id="54" type="mentioned_in" />
+      <edge source="russia_Location" target="european_leaders_Organization" id="55" weight="1" type="co_occurs_with" />
+      <edge source="russia_Location" target="kremlin_Organization" id="56" weight="1" type="co_occurs_with" />
+      <edge source="russia_Location" target="kyiv_Location" id="57" weight="1" type="co_occurs_with" />
+      <edge source="russia_Location" target="truce_Event" id="58" weight="1" type="co_occurs_with" />
+      <edge source="russia_Location" target="sanctions_Event" id="59" weight="1" type="co_occurs_with" />
+      <edge source="ukraine_Location" target="european_Location" id="60" weight="1" type="co_occurs_with" />
+      <edge source="ukraine_Location" target="ceasefire_Event" id="61" weight="2" type="co_occurs_with" />
+      <edge source="ukraine_Location" target="article_34" id="62" type="mentioned_in" />
+      <edge source="ukraine_Location" target="war_Event" id="63" weight="1" type="co_occurs_with" />
+      <edge source="ukraine_Location" target="article_35" id="64" type="mentioned_in" />
+      <edge source="ukraine_Location" target="european_leaders_Organization" id="65" weight="1" type="co_occurs_with" />
+      <edge source="ukraine_Location" target="kremlin_Organization" id="66" weight="1" type="co_occurs_with" />
+      <edge source="ukraine_Location" target="kyiv_Location" id="67" weight="1" type="co_occurs_with" />
+      <edge source="ukraine_Location" target="truce_Event" id="68" weight="1" type="co_occurs_with" />
+      <edge source="ukraine_Location" target="sanctions_Event" id="69" weight="1" type="co_occurs_with" />
+      <edge source="european_Location" target="ceasefire_Event" id="70" weight="1" type="co_occurs_with" />
+      <edge source="ceasefire_Event" target="article_35" id="71" type="mentioned_in" />
+      <edge source="ceasefire_Event" target="european_leaders_Organization" id="72" weight="1" type="co_occurs_with" />
+      <edge source="ceasefire_Event" target="kremlin_Organization" id="73" weight="1" type="co_occurs_with" />
+      <edge source="ceasefire_Event" target="kyiv_Location" id="74" weight="1" type="co_occurs_with" />
+      <edge source="ceasefire_Event" target="truce_Event" id="75" weight="1" type="co_occurs_with" />
+      <edge source="ceasefire_Event" target="sanctions_Event" id="76" weight="1" type="co_occurs_with" />
+      <edge source="article_1" target="the_white_house_Organization" id="77" type="mentioned_in" />
+      <edge source="article_1" target="trump_Person" id="78" type="mentioned_in" />
+      <edge source="the_white_house_Organization" target="trump_Person" id="79" weight="1" type="co_occurs_with" />
+      <edge source="trump_Person" target="article_6" id="80" type="mentioned_in" />
+      <edge source="trump_Person" target="google_Organization" id="81" weight="2" type="co_occurs_with" />
+      <edge source="trump_Person" target="sheinbaum_Person" id="82" weight="2" type="co_occurs_with" />
+      <edge source="trump_Person" target="mexico_Location" id="83" weight="2" type="co_occurs_with" />
+      <edge source="trump_Person" target="gulf_of_america_Location" id="84" weight="2" type="co_occurs_with" />
+      <edge source="trump_Person" target="us_Location" id="85" weight="5" type="co_occurs_with" />
+      <edge source="trump_Person" target="article_17" id="86" type="mentioned_in" />
+      <edge source="trump_Person" target="white_house_Organization" id="87" weight="1" type="co_occurs_with" />
+      <edge source="trump_Person" target="trump_administration_Organization" id="88" weight="2" type="co_occurs_with" />
+      <edge source="trump_Person" target="miller_Person" id="89" weight="1" type="co_occurs_with" />
+      <edge source="trump_Person" target="article_19" id="90" type="mentioned_in" />
+      <edge source="trump_Person" target="mattel_Organization" id="91" weight="1" type="co_occurs_with" />
+      <edge source="trump_Person" target="article_27" id="92" type="mentioned_in" />
+      <edge source="trump_Person" target="uae_Organization" id="93" weight="1" type="co_occurs_with" />
+      <edge source="trump_Person" target="saudi_arabia_Organization" id="94" weight="1" type="co_occurs_with" />
+      <edge source="trump_Person" target="qatar_Organization" id="95" weight="1" type="co_occurs_with" />
+      <edge source="trump_Person" target="bloomberg_news_Organization" id="96" weight="1" type="co_occurs_with" />
+      <edge source="trump_Person" target="middle_east_Location" id="97" weight="1" type="co_occurs_with" />
+      <edge source="trump_Person" target="article_42" id="98" type="mentioned_in" />
+      <edge source="trump_Person" target="new_jersey_Location" id="99" weight="1" type="co_occurs_with" />
+      <edge source="trump_Person" target="air_traffic_control_outage_Event" id="100" weight="1" type="co_occurs_with" />
+      <edge source="trump_Person" target="article_44" id="101" type="mentioned_in" />
+      <edge source="trump_Person" target="gulf_of_mexico_Location" id="102" weight="1" type="co_occurs_with" />
+      <edge source="article_2" target="maga_Organization" id="103" type="mentioned_in" />
+      <edge source="article_2" target="pope_leo_xiv_Person" id="104" type="mentioned_in" />
+      <edge source="article_2" target="donald_trump_Person" id="105" type="mentioned_in" />
+      <edge source="article_2" target="jd_vance_Person" id="106" type="mentioned_in" />
+      <edge source="article_2" target="american_Location" id="107" type="mentioned_in" />
+      <edge source="article_2" target="america_Location" id="108" type="mentioned_in" />
+      <edge source="maga_Organization" target="pope_leo_xiv_Person" id="109" weight="1" type="co_occurs_with" />
+      <edge source="maga_Organization" target="donald_trump_Person" id="110" weight="1" type="co_occurs_with" />
+      <edge source="maga_Organization" target="jd_vance_Person" id="111" weight="1" type="co_occurs_with" />
+      <edge source="maga_Organization" target="american_Location" id="112" weight="1" type="co_occurs_with" />
+      <edge source="maga_Organization" target="america_Location" id="113" weight="1" type="co_occurs_with" />
+      <edge source="pope_leo_xiv_Person" target="donald_trump_Person" id="114" weight="1" type="co_occurs_with" />
+      <edge source="pope_leo_xiv_Person" target="jd_vance_Person" id="115" weight="1" type="co_occurs_with" />
+      <edge source="pope_leo_xiv_Person" target="american_Location" id="116" weight="1" type="co_occurs_with" />
+      <edge source="pope_leo_xiv_Person" target="america_Location" id="117" weight="1" type="co_occurs_with" />
+      <edge source="pope_leo_xiv_Person" target="article_21" id="118" type="mentioned_in" />
+      <edge source="pope_leo_xiv_Person" target="cardinals_Organization" id="119" weight="1" type="co_occurs_with" />
+      <edge source="pope_leo_xiv_Person" target="sistine_chapel_Location" id="120" weight="1" type="co_occurs_with" />
+      <edge source="pope_leo_xiv_Person" target="mass_Event" id="121" weight="1" type="co_occurs_with" />
+      <edge source="donald_trump_Person" target="jd_vance_Person" id="122" weight="1" type="co_occurs_with" />
+      <edge source="donald_trump_Person" target="american_Location" id="123" weight="1" type="co_occurs_with" />
+      <edge source="donald_trump_Person" target="america_Location" id="124" weight="1" type="co_occurs_with" />
+      <edge source="donald_trump_Person" target="article_14" id="125" type="mentioned_in" />
+      <edge source="donald_trump_Person" target="us_Organization" id="126" weight="1" type="co_occurs_with" />
+      <edge source="donald_trump_Person" target="china_Organization" id="127" weight="1" type="co_occurs_with" />
+      <edge source="donald_trump_Person" target="xi_jinping_Person" id="128" weight="1" type="co_occurs_with" />
+      <edge source="donald_trump_Person" target="trade_war_Event" id="129" weight="1" type="co_occurs_with" />
+      <edge source="jd_vance_Person" target="american_Location" id="130" weight="1" type="co_occurs_with" />
+      <edge source="jd_vance_Person" target="america_Location" id="131" weight="1" type="co_occurs_with" />
+      <edge source="american_Location" target="america_Location" id="132" weight="1" type="co_occurs_with" />
+      <edge source="article_3" target="taylor_swift_Person" id="133" type="mentioned_in" />
+      <edge source="article_3" target="lively-baldoni_Person" id="134" type="mentioned_in" />
+      <edge source="taylor_swift_Person" target="lively-baldoni_Person" id="135" weight="1" type="co_occurs_with" />
+      <edge source="article_4" target="catholic_church_Organization" id="136" type="mentioned_in" />
+      <edge source="article_4" target="pope_leo_Person" id="137" type="mentioned_in" />
+      <edge source="catholic_church_Organization" target="pope_leo_Person" id="138" weight="1" type="co_occurs_with" />
+      <edge source="pope_leo_Person" target="article_23" id="139" type="mentioned_in" />
+      <edge source="pope_leo_Person" target="pope_Organization" id="140" weight="1" type="co_occurs_with" />
+      <edge source="pope_leo_Person" target="pope_francis_Person" id="141" weight="1" type="co_occurs_with" />
+      <edge source="pope_leo_Person" target="ai_Product" id="142" weight="1" type="co_occurs_with" />
+      <edge source="pope_leo_Person" target="first_meeting_with_cardinals_Event" id="143" weight="1" type="co_occurs_with" />
+      <edge source="article_5" target="ai_Organization" id="144" type="mentioned_in" />
+      <edge source="article_5" target="elton_john_Person" id="145" type="mentioned_in" />
+      <edge source="article_5" target="dua_lipa_Person" id="146" type="mentioned_in" />
+      <edge source="article_5" target="sir_keir_starmer_Person" id="147" type="mentioned_in" />
+      <edge source="ai_Organization" target="elton_john_Person" id="148" weight="1" type="co_occurs_with" />
+      <edge source="ai_Organization" target="dua_lipa_Person" id="149" weight="1" type="co_occurs_with" />
+      <edge source="ai_Organization" target="sir_keir_starmer_Person" id="150" weight="1" type="co_occurs_with" />
+      <edge source="elton_john_Person" target="dua_lipa_Person" id="151" weight="1" type="co_occurs_with" />
+      <edge source="elton_john_Person" target="sir_keir_starmer_Person" id="152" weight="1" type="co_occurs_with" />
+      <edge source="dua_lipa_Person" target="sir_keir_starmer_Person" id="153" weight="1" type="co_occurs_with" />
+      <edge source="article_6" target="google_Organization" id="154" type="mentioned_in" />
+      <edge source="article_6" target="sheinbaum_Person" id="155" type="mentioned_in" />
+      <edge source="article_6" target="mexico_Location" id="156" type="mentioned_in" />
+      <edge source="article_6" target="gulf_of_america_Location" id="157" type="mentioned_in" />
+      <edge source="article_6" target="us_Location" id="158" type="mentioned_in" />
+      <edge source="google_Organization" target="sheinbaum_Person" id="159" weight="2" type="co_occurs_with" />
+      <edge source="google_Organization" target="mexico_Location" id="160" weight="2" type="co_occurs_with" />
+      <edge source="google_Organization" target="gulf_of_america_Location" id="161" weight="2" type="co_occurs_with" />
+      <edge source="google_Organization" target="us_Location" id="162" weight="2" type="co_occurs_with" />
+      <edge source="google_Organization" target="article_44" id="163" type="mentioned_in" />
+      <edge source="google_Organization" target="gulf_of_mexico_Location" id="164" weight="1" type="co_occurs_with" />
+      <edge source="sheinbaum_Person" target="mexico_Location" id="165" weight="2" type="co_occurs_with" />
+      <edge source="sheinbaum_Person" target="gulf_of_america_Location" id="166" weight="2" type="co_occurs_with" />
+      <edge source="sheinbaum_Person" target="us_Location" id="167" weight="2" type="co_occurs_with" />
+      <edge source="sheinbaum_Person" target="article_44" id="168" type="mentioned_in" />
+      <edge source="sheinbaum_Person" target="gulf_of_mexico_Location" id="169" weight="1" type="co_occurs_with" />
+      <edge source="mexico_Location" target="gulf_of_america_Location" id="170" weight="2" type="co_occurs_with" />
+      <edge source="mexico_Location" target="us_Location" id="171" weight="2" type="co_occurs_with" />
+      <edge source="mexico_Location" target="article_44" id="172" type="mentioned_in" />
+      <edge source="mexico_Location" target="gulf_of_mexico_Location" id="173" weight="1" type="co_occurs_with" />
+      <edge source="gulf_of_america_Location" target="us_Location" id="174" weight="2" type="co_occurs_with" />
+      <edge source="gulf_of_america_Location" target="article_44" id="175" type="mentioned_in" />
+      <edge source="gulf_of_america_Location" target="gulf_of_mexico_Location" id="176" weight="1" type="co_occurs_with" />
+      <edge source="us_Location" target="article_7" id="177" type="mentioned_in" />
+      <edge source="us_Location" target="tufts_university_Organization" id="178" weight="1" type="co_occurs_with" />
+      <edge source="us_Location" target="white_house_Organization" id="179" weight="1" type="co_occurs_with" />
+      <edge source="us_Location" target="article_12" id="180" type="mentioned_in" />
+      <edge source="us_Location" target="article_19" id="181" type="mentioned_in" />
+      <edge source="us_Location" target="mattel_Organization" id="182" weight="1" type="co_occurs_with" />
+      <edge source="us_Location" target="article_22" id="183" type="mentioned_in" />
+      <edge source="us_Location" target="iranian_foreign_ministry_Organization" id="184" weight="1" type="co_occurs_with" />
+      <edge source="us_Location" target="saudi_arabia_Location" id="185" weight="1" type="co_occurs_with" />
+      <edge source="us_Location" target="qatar_Location" id="186" weight="1" type="co_occurs_with" />
+      <edge source="us_Location" target="oman_Location" id="187" weight="1" type="co_occurs_with" />
+      <edge source="us_Location" target="iran_Location" id="188" weight="1" type="co_occurs_with" />
+      <edge source="us_Location" target="nuclear_talks_Event" id="189" weight="1" type="co_occurs_with" />
+      <edge source="us_Location" target="article_27" id="190" type="mentioned_in" />
+      <edge source="us_Location" target="uae_Organization" id="191" weight="1" type="co_occurs_with" />
+      <edge source="us_Location" target="saudi_arabia_Organization" id="192" weight="1" type="co_occurs_with" />
+      <edge source="us_Location" target="qatar_Organization" id="193" weight="1" type="co_occurs_with" />
+      <edge source="us_Location" target="bloomberg_news_Organization" id="194" weight="1" type="co_occurs_with" />
+      <edge source="us_Location" target="middle_east_Location" id="195" weight="1" type="co_occurs_with" />
+      <edge source="us_Location" target="article_40" id="196" type="mentioned_in" />
+      <edge source="us_Location" target="ice_Organization" id="197" weight="1" type="co_occurs_with" />
+      <edge source="us_Location" target="ras_baraka_Person" id="198" weight="1" type="co_occurs_with" />
+      <edge source="us_Location" target="newark_Location" id="199" weight="1" type="co_occurs_with" />
+      <edge source="us_Location" target="protest_Event" id="200" weight="1" type="co_occurs_with" />
+      <edge source="us_Location" target="article_42" id="201" type="mentioned_in" />
+      <edge source="us_Location" target="trump_administration_Organization" id="202" weight="1" type="co_occurs_with" />
+      <edge source="us_Location" target="new_jersey_Location" id="203" weight="1" type="co_occurs_with" />
+      <edge source="us_Location" target="air_traffic_control_outage_Event" id="204" weight="1" type="co_occurs_with" />
+      <edge source="us_Location" target="article_44" id="205" type="mentioned_in" />
+      <edge source="us_Location" target="gulf_of_mexico_Location" id="206" weight="1" type="co_occurs_with" />
+      <edge source="article_7" target="tufts_university_Organization" id="207" type="mentioned_in" />
+      <edge source="article_7" target="white_house_Organization" id="208" type="mentioned_in" />
+      <edge source="tufts_university_Organization" target="white_house_Organization" id="209" weight="1" type="co_occurs_with" />
+      <edge source="white_house_Organization" target="article_17" id="210" type="mentioned_in" />
+      <edge source="white_house_Organization" target="trump_administration_Organization" id="211" weight="1" type="co_occurs_with" />
+      <edge source="white_house_Organization" target="miller_Person" id="212" weight="1" type="co_occurs_with" />
+      <edge source="article_8" target="us_Organization" id="213" type="mentioned_in" />
+      <edge source="article_8" target="un_Organization" id="214" type="mentioned_in" />
+      <edge source="article_8" target="gaza_Location" id="215" type="mentioned_in" />
+      <edge source="us_Organization" target="un_Organization" id="216" weight="1" type="co_occurs_with" />
+      <edge source="us_Organization" target="gaza_Location" id="217" weight="1" type="co_occurs_with" />
+      <edge source="us_Organization" target="article_14" id="218" type="mentioned_in" />
+      <edge source="us_Organization" target="china_Organization" id="219" weight="1" type="co_occurs_with" />
+      <edge source="us_Organization" target="xi_jinping_Person" id="220" weight="1" type="co_occurs_with" />
+      <edge source="us_Organization" target="trade_war_Event" id="221" weight="2" type="co_occurs_with" />
+      <edge source="us_Organization" target="article_25" id="222" type="mentioned_in" />
+      <edge source="us_Organization" target="china_Location" id="223" weight="1" type="co_occurs_with" />
+      <edge source="us_Organization" target="switzerland_Location" id="224" weight="1" type="co_occurs_with" />
+      <edge source="un_Organization" target="gaza_Location" id="225" weight="1" type="co_occurs_with" />
+      <edge source="gaza_Location" target="article_26" id="226" type="mentioned_in" />
+      <edge source="gaza_Location" target="famine_Event" id="227" weight="1" type="co_occurs_with" />
+      <edge source="gaza_Location" target="article_28" id="228" type="mentioned_in" />
+      <edge source="gaza_Location" target="israel_Organization" id="229" weight="1" type="co_occurs_with" />
+      <edge source="gaza_Location" target="medicine_Product" id="230" weight="1" type="co_occurs_with" />
+      <edge source="gaza_Location" target="attacks_Event" id="231" weight="1" type="co_occurs_with" />
+      <edge source="gaza_Location" target="aid_blockade_Event" id="232" weight="1" type="co_occurs_with" />
+      <edge source="gaza_Location" target="ban_on_entry_of_all_items_Event" id="233" weight="1" type="co_occurs_with" />
+      <edge source="gaza_Location" target="article_36" id="234" type="mentioned_in" />
+      <edge source="gaza_Location" target="israeli_Organization" id="235" weight="1" type="co_occurs_with" />
+      <edge source="gaza_Location" target="netanyahu_Person" id="236" weight="1" type="co_occurs_with" />
+      <edge source="gaza_Location" target="israel_Location" id="237" weight="1" type="co_occurs_with" />
+      <edge source="gaza_Location" target="war_Event" id="238" weight="1" type="co_occurs_with" />
+      <edge source="article_9" target="xi_Person" id="239" type="mentioned_in" />
+      <edge source="article_9" target="putin_Person" id="240" type="mentioned_in" />
+      <edge source="article_9" target="china_Location" id="241" type="mentioned_in" />
+      <edge source="xi_Person" target="putin_Person" id="242" weight="1" type="co_occurs_with" />
+      <edge source="xi_Person" target="china_Location" id="243" weight="1" type="co_occurs_with" />
+      <edge source="putin_Person" target="china_Location" id="244" weight="1" type="co_occurs_with" />
+      <edge source="putin_Person" target="article_20" id="245" type="mentioned_in" />
+      <edge source="putin_Person" target="bc_monitoring_Organization" id="246" weight="1" type="co_occurs_with" />
+      <edge source="putin_Person" target="vitaly_shevchenko_Person" id="247" weight="1" type="co_occurs_with" />
+      <edge source="putin_Person" target="red_square_Location" id="248" weight="1" type="co_occurs_with" />
+      <edge source="putin_Person" target="moscow_Location" id="249" weight="1" type="co_occurs_with" />
+      <edge source="putin_Person" target="victory_day_Event" id="250" weight="1" type="co_occurs_with" />
+      <edge source="china_Location" target="article_25" id="251" type="mentioned_in" />
+      <edge source="china_Location" target="switzerland_Location" id="252" weight="1" type="co_occurs_with" />
+      <edge source="china_Location" target="trade_war_Event" id="253" weight="1" type="co_occurs_with" />
+      <edge source="article_10" target="port_sudan_Location" id="254" type="mentioned_in" />
+      <edge source="article_10" target="civil_war_Event" id="255" type="mentioned_in" />
+      <edge source="article_10" target="attacks_Event" id="256" type="mentioned_in" />
+      <edge source="article_10" target="bombardments_Event" id="257" type="mentioned_in" />
+      <edge source="port_sudan_Location" target="civil_war_Event" id="258" weight="1" type="co_occurs_with" />
+      <edge source="port_sudan_Location" target="attacks_Event" id="259" weight="1" type="co_occurs_with" />
+      <edge source="port_sudan_Location" target="bombardments_Event" id="260" weight="1" type="co_occurs_with" />
+      <edge source="civil_war_Event" target="attacks_Event" id="261" weight="1" type="co_occurs_with" />
+      <edge source="civil_war_Event" target="bombardments_Event" id="262" weight="1" type="co_occurs_with" />
+      <edge source="civil_war_Event" target="article_38" id="263" type="mentioned_in" />
+      <edge source="civil_war_Event" target="shwe_phee_myay_Organization" id="264" weight="1" type="co_occurs_with" />
+      <edge source="civil_war_Event" target="myanmar_Location" id="265" weight="1" type="co_occurs_with" />
+      <edge source="civil_war_Event" target="shan_state_Location" id="266" weight="1" type="co_occurs_with" />
+      <edge source="attacks_Event" target="bombardments_Event" id="267" weight="1" type="co_occurs_with" />
+      <edge source="attacks_Event" target="article_28" id="268" type="mentioned_in" />
+      <edge source="attacks_Event" target="israel_Organization" id="269" weight="1" type="co_occurs_with" />
+      <edge source="attacks_Event" target="medicine_Product" id="270" weight="1" type="co_occurs_with" />
+      <edge source="attacks_Event" target="aid_blockade_Event" id="271" weight="1" type="co_occurs_with" />
+      <edge source="attacks_Event" target="ban_on_entry_of_all_items_Event" id="272" weight="1" type="co_occurs_with" />
+      <edge source="article_11" target="china_Organization" id="273" type="mentioned_in" />
+      <edge source="article_11" target="moon_Location" id="274" type="mentioned_in" />
+      <edge source="article_11" target="uk_Location" id="275" type="mentioned_in" />
+      <edge source="article_11" target="moon_dust_Product" id="276" type="mentioned_in" />
+      <edge source="article_11" target="gold_Product" id="277" type="mentioned_in" />
+      <edge source="china_Organization" target="moon_Location" id="278" weight="1" type="co_occurs_with" />
+      <edge source="china_Organization" target="uk_Location" id="279" weight="1" type="co_occurs_with" />
+      <edge source="china_Organization" target="moon_dust_Product" id="280" weight="1" type="co_occurs_with" />
+      <edge source="china_Organization" target="gold_Product" id="281" weight="1" type="co_occurs_with" />
+      <edge source="china_Organization" target="article_14" id="282" type="mentioned_in" />
+      <edge source="china_Organization" target="xi_jinping_Person" id="283" weight="1" type="co_occurs_with" />
+      <edge source="china_Organization" target="trade_war_Event" id="284" weight="1" type="co_occurs_with" />
+      <edge source="moon_Location" target="uk_Location" id="285" weight="1" type="co_occurs_with" />
+      <edge source="moon_Location" target="moon_dust_Product" id="286" weight="1" type="co_occurs_with" />
+      <edge source="moon_Location" target="gold_Product" id="287" weight="1" type="co_occurs_with" />
+      <edge source="uk_Location" target="moon_dust_Product" id="288" weight="1" type="co_occurs_with" />
+      <edge source="uk_Location" target="gold_Product" id="289" weight="1" type="co_occurs_with" />
+      <edge source="moon_dust_Product" target="gold_Product" id="290" weight="1" type="co_occurs_with" />
+      <edge source="article_13" target="eurovision_Event" id="291" type="mentioned_in" />
+      <edge source="article_13" target="eurovision_2025_Event" id="292" type="mentioned_in" />
+      <edge source="eurovision_Event" target="eurovision_2025_Event" id="293" weight="1" type="co_occurs_with" />
+      <edge source="article_14" target="xi_jinping_Person" id="294" type="mentioned_in" />
+      <edge source="article_14" target="trade_war_Event" id="295" type="mentioned_in" />
+      <edge source="xi_jinping_Person" target="trade_war_Event" id="296" weight="1" type="co_occurs_with" />
+      <edge source="trade_war_Event" target="article_25" id="297" type="mentioned_in" />
+      <edge source="trade_war_Event" target="switzerland_Location" id="298" weight="1" type="co_occurs_with" />
+      <edge source="article_15" target="india_Location" id="299" type="mentioned_in" />
+      <edge source="article_15" target="pakistan_Location" id="300" type="mentioned_in" />
+      <edge source="india_Location" target="pakistan_Location" id="301" weight="4" type="co_occurs_with" />
+      <edge source="india_Location" target="article_32" id="302" type="mentioned_in" />
+      <edge source="india_Location" target="psl_Organization" id="303" weight="1" type="co_occurs_with" />
+      <edge source="india_Location" target="uae_Location" id="304" weight="1" type="co_occurs_with" />
+      <edge source="india_Location" target="twenty20_league_Event" id="305" weight="1" type="co_occurs_with" />
+      <edge source="india_Location" target="article_39" id="306" type="mentioned_in" />
+      <edge source="india_Location" target="nuclear_weapons_Product" id="307" weight="1" type="co_occurs_with" />
+      <edge source="india_Location" target="war_Event" id="308" weight="1" type="co_occurs_with" />
+      <edge source="india_Location" target="article_43" id="309" type="mentioned_in" />
+      <edge source="india_Location" target="drone_Product" id="310" weight="1" type="co_occurs_with" />
+      <edge source="india_Location" target="artillery_Product" id="311" weight="1" type="co_occurs_with" />
+      <edge source="india_Location" target="fighting_Event" id="312" weight="1" type="co_occurs_with" />
+      <edge source="pakistan_Location" target="article_32" id="313" type="mentioned_in" />
+      <edge source="pakistan_Location" target="psl_Organization" id="314" weight="1" type="co_occurs_with" />
+      <edge source="pakistan_Location" target="uae_Location" id="315" weight="1" type="co_occurs_with" />
+      <edge source="pakistan_Location" target="twenty20_league_Event" id="316" weight="1" type="co_occurs_with" />
+      <edge source="pakistan_Location" target="article_39" id="317" type="mentioned_in" />
+      <edge source="pakistan_Location" target="nuclear_weapons_Product" id="318" weight="1" type="co_occurs_with" />
+      <edge source="pakistan_Location" target="war_Event" id="319" weight="1" type="co_occurs_with" />
+      <edge source="pakistan_Location" target="article_43" id="320" type="mentioned_in" />
+      <edge source="pakistan_Location" target="drone_Product" id="321" weight="1" type="co_occurs_with" />
+      <edge source="pakistan_Location" target="artillery_Product" id="322" weight="1" type="co_occurs_with" />
+      <edge source="pakistan_Location" target="fighting_Event" id="323" weight="1" type="co_occurs_with" />
+      <edge source="article_16" target="beijing_Organization" id="324" type="mentioned_in" />
+      <edge source="article_16" target="innes_tang_Person" id="325" type="mentioned_in" />
+      <edge source="article_16" target="hong_kong_Location" id="326" type="mentioned_in" />
+      <edge source="beijing_Organization" target="innes_tang_Person" id="327" weight="1" type="co_occurs_with" />
+      <edge source="beijing_Organization" target="hong_kong_Location" id="328" weight="1" type="co_occurs_with" />
+      <edge source="innes_tang_Person" target="hong_kong_Location" id="329" weight="1" type="co_occurs_with" />
+      <edge source="article_17" target="trump_administration_Organization" id="330" type="mentioned_in" />
+      <edge source="article_17" target="miller_Person" id="331" type="mentioned_in" />
+      <edge source="trump_administration_Organization" target="miller_Person" id="332" weight="1" type="co_occurs_with" />
+      <edge source="trump_administration_Organization" target="article_42" id="333" type="mentioned_in" />
+      <edge source="trump_administration_Organization" target="new_jersey_Location" id="334" weight="1" type="co_occurs_with" />
+      <edge source="trump_administration_Organization" target="air_traffic_control_outage_Event" id="335" weight="1" type="co_occurs_with" />
+      <edge source="article_18" target="russia_Organization" id="336" type="mentioned_in" />
+      <edge source="article_18" target="moscow_Organization" id="337" type="mentioned_in" />
+      <edge source="article_18" target="steve_rosenberg_Person" id="338" type="mentioned_in" />
+      <edge source="article_18" target="vladimir_putin_Person" id="339" type="mentioned_in" />
+      <edge source="article_18" target="red_square_Location" id="340" type="mentioned_in" />
+      <edge source="article_18" target="victory_day_Event" id="341" type="mentioned_in" />
+      <edge source="article_18" target="annual_parade_Event" id="342" type="mentioned_in" />
+      <edge source="russia_Organization" target="moscow_Organization" id="343" weight="1" type="co_occurs_with" />
+      <edge source="russia_Organization" target="steve_rosenberg_Person" id="344" weight="1" type="co_occurs_with" />
+      <edge source="russia_Organization" target="vladimir_putin_Person" id="345" weight="1" type="co_occurs_with" />
+      <edge source="russia_Organization" target="red_square_Location" id="346" weight="1" type="co_occurs_with" />
+      <edge source="russia_Organization" target="victory_day_Event" id="347" weight="1" type="co_occurs_with" />
+      <edge source="russia_Organization" target="annual_parade_Event" id="348" weight="1" type="co_occurs_with" />
+      <edge source="moscow_Organization" target="steve_rosenberg_Person" id="349" weight="1" type="co_occurs_with" />
+      <edge source="moscow_Organization" target="vladimir_putin_Person" id="350" weight="1" type="co_occurs_with" />
+      <edge source="moscow_Organization" target="red_square_Location" id="351" weight="1" type="co_occurs_with" />
+      <edge source="moscow_Organization" target="victory_day_Event" id="352" weight="1" type="co_occurs_with" />
+      <edge source="moscow_Organization" target="annual_parade_Event" id="353" weight="1" type="co_occurs_with" />
+      <edge source="steve_rosenberg_Person" target="vladimir_putin_Person" id="354" weight="1" type="co_occurs_with" />
+      <edge source="steve_rosenberg_Person" target="red_square_Location" id="355" weight="1" type="co_occurs_with" />
+      <edge source="steve_rosenberg_Person" target="victory_day_Event" id="356" weight="1" type="co_occurs_with" />
+      <edge source="steve_rosenberg_Person" target="annual_parade_Event" id="357" weight="1" type="co_occurs_with" />
+      <edge source="vladimir_putin_Person" target="red_square_Location" id="358" weight="1" type="co_occurs_with" />
+      <edge source="vladimir_putin_Person" target="victory_day_Event" id="359" weight="1" type="co_occurs_with" />
+      <edge source="vladimir_putin_Person" target="annual_parade_Event" id="360" weight="1" type="co_occurs_with" />
+      <edge source="red_square_Location" target="victory_day_Event" id="361" weight="2" type="co_occurs_with" />
+      <edge source="red_square_Location" target="annual_parade_Event" id="362" weight="1" type="co_occurs_with" />
+      <edge source="red_square_Location" target="article_20" id="363" type="mentioned_in" />
+      <edge source="red_square_Location" target="bc_monitoring_Organization" id="364" weight="1" type="co_occurs_with" />
+      <edge source="red_square_Location" target="vitaly_shevchenko_Person" id="365" weight="1" type="co_occurs_with" />
+      <edge source="red_square_Location" target="moscow_Location" id="366" weight="1" type="co_occurs_with" />
+      <edge source="victory_day_Event" target="annual_parade_Event" id="367" weight="1" type="co_occurs_with" />
+      <edge source="victory_day_Event" target="article_20" id="368" type="mentioned_in" />
+      <edge source="victory_day_Event" target="bc_monitoring_Organization" id="369" weight="1" type="co_occurs_with" />
+      <edge source="victory_day_Event" target="vitaly_shevchenko_Person" id="370" weight="1" type="co_occurs_with" />
+      <edge source="victory_day_Event" target="moscow_Location" id="371" weight="1" type="co_occurs_with" />
+      <edge source="article_19" target="mattel_Organization" id="372" type="mentioned_in" />
+      <edge source="article_20" target="bc_monitoring_Organization" id="373" type="mentioned_in" />
+      <edge source="article_20" target="vitaly_shevchenko_Person" id="374" type="mentioned_in" />
+      <edge source="article_20" target="moscow_Location" id="375" type="mentioned_in" />
+      <edge source="bc_monitoring_Organization" target="vitaly_shevchenko_Person" id="376" weight="1" type="co_occurs_with" />
+      <edge source="bc_monitoring_Organization" target="moscow_Location" id="377" weight="1" type="co_occurs_with" />
+      <edge source="vitaly_shevchenko_Person" target="moscow_Location" id="378" weight="1" type="co_occurs_with" />
+      <edge source="article_21" target="cardinals_Organization" id="379" type="mentioned_in" />
+      <edge source="article_21" target="sistine_chapel_Location" id="380" type="mentioned_in" />
+      <edge source="article_21" target="mass_Event" id="381" type="mentioned_in" />
+      <edge source="cardinals_Organization" target="sistine_chapel_Location" id="382" weight="1" type="co_occurs_with" />
+      <edge source="cardinals_Organization" target="mass_Event" id="383" weight="1" type="co_occurs_with" />
+      <edge source="sistine_chapel_Location" target="mass_Event" id="384" weight="1" type="co_occurs_with" />
+      <edge source="article_22" target="iranian_foreign_ministry_Organization" id="385" type="mentioned_in" />
+      <edge source="article_22" target="saudi_arabia_Location" id="386" type="mentioned_in" />
+      <edge source="article_22" target="qatar_Location" id="387" type="mentioned_in" />
+      <edge source="article_22" target="oman_Location" id="388" type="mentioned_in" />
+      <edge source="article_22" target="iran_Location" id="389" type="mentioned_in" />
+      <edge source="article_22" target="nuclear_talks_Event" id="390" type="mentioned_in" />
+      <edge source="iranian_foreign_ministry_Organization" target="saudi_arabia_Location" id="391" weight="1" type="co_occurs_with" />
+      <edge source="iranian_foreign_ministry_Organization" target="qatar_Location" id="392" weight="1" type="co_occurs_with" />
+      <edge source="iranian_foreign_ministry_Organization" target="oman_Location" id="393" weight="1" type="co_occurs_with" />
+      <edge source="iranian_foreign_ministry_Organization" target="iran_Location" id="394" weight="1" type="co_occurs_with" />
+      <edge source="iranian_foreign_ministry_Organization" target="nuclear_talks_Event" id="395" weight="1" type="co_occurs_with" />
+      <edge source="saudi_arabia_Location" target="qatar_Location" id="396" weight="1" type="co_occurs_with" />
+      <edge source="saudi_arabia_Location" target="oman_Location" id="397" weight="1" type="co_occurs_with" />
+      <edge source="saudi_arabia_Location" target="iran_Location" id="398" weight="1" type="co_occurs_with" />
+      <edge source="saudi_arabia_Location" target="nuclear_talks_Event" id="399" weight="1" type="co_occurs_with" />
+      <edge source="qatar_Location" target="oman_Location" id="400" weight="1" type="co_occurs_with" />
+      <edge source="qatar_Location" target="iran_Location" id="401" weight="1" type="co_occurs_with" />
+      <edge source="qatar_Location" target="nuclear_talks_Event" id="402" weight="1" type="co_occurs_with" />
+      <edge source="qatar_Location" target="article_29" id="403" type="mentioned_in" />
+      <edge source="qatar_Location" target="isil_Organization" id="404" weight="1" type="co_occurs_with" />
+      <edge source="qatar_Location" target="syria_Location" id="405" weight="1" type="co_occurs_with" />
+      <edge source="oman_Location" target="iran_Location" id="406" weight="1" type="co_occurs_with" />
+      <edge source="oman_Location" target="nuclear_talks_Event" id="407" weight="1" type="co_occurs_with" />
+      <edge source="iran_Location" target="nuclear_talks_Event" id="408" weight="1" type="co_occurs_with" />
+      <edge source="article_23" target="pope_Organization" id="409" type="mentioned_in" />
+      <edge source="article_23" target="pope_francis_Person" id="410" type="mentioned_in" />
+      <edge source="article_23" target="ai_Product" id="411" type="mentioned_in" />
+      <edge source="article_23" target="first_meeting_with_cardinals_Event" id="412" type="mentioned_in" />
+      <edge source="pope_Organization" target="pope_francis_Person" id="413" weight="1" type="co_occurs_with" />
+      <edge source="pope_Organization" target="ai_Product" id="414" weight="1" type="co_occurs_with" />
+      <edge source="pope_Organization" target="first_meeting_with_cardinals_Event" id="415" weight="1" type="co_occurs_with" />
+      <edge source="pope_francis_Person" target="ai_Product" id="416" weight="1" type="co_occurs_with" />
+      <edge source="pope_francis_Person" target="first_meeting_with_cardinals_Event" id="417" weight="1" type="co_occurs_with" />
+      <edge source="ai_Product" target="first_meeting_with_cardinals_Event" id="418" weight="1" type="co_occurs_with" />
+      <edge source="article_24" target="liverpool_Organization" id="419" type="mentioned_in" />
+      <edge source="article_24" target="arsenal_Organization" id="420" type="mentioned_in" />
+      <edge source="article_24" target="al_jazeera_Organization" id="421" type="mentioned_in" />
+      <edge source="article_24" target="premier_league_Organization" id="422" type="mentioned_in" />
+      <edge source="liverpool_Organization" target="arsenal_Organization" id="423" weight="1" type="co_occurs_with" />
+      <edge source="liverpool_Organization" target="al_jazeera_Organization" id="424" weight="1" type="co_occurs_with" />
+      <edge source="liverpool_Organization" target="premier_league_Organization" id="425" weight="1" type="co_occurs_with" />
+      <edge source="arsenal_Organization" target="al_jazeera_Organization" id="426" weight="1" type="co_occurs_with" />
+      <edge source="arsenal_Organization" target="premier_league_Organization" id="427" weight="1" type="co_occurs_with" />
+      <edge source="al_jazeera_Organization" target="premier_league_Organization" id="428" weight="1" type="co_occurs_with" />
+      <edge source="al_jazeera_Organization" target="article_45" id="429" type="mentioned_in" />
+      <edge source="al_jazeera_Organization" target="real_madrid_Organization" id="430" weight="1" type="co_occurs_with" />
+      <edge source="al_jazeera_Organization" target="la_liga_Organization" id="431" weight="1" type="co_occurs_with" />
+      <edge source="al_jazeera_Organization" target="barcelona_Location" id="432" weight="1" type="co_occurs_with" />
+      <edge source="al_jazeera_Organization" target="el_clasico_Event" id="433" weight="1" type="co_occurs_with" />
+      <edge source="al_jazeera_Organization" target="article_46" id="434" type="mentioned_in" />
+      <edge source="al_jazeera_Organization" target="mohsen_mahdawi_Person" id="435" weight="1" type="co_occurs_with" />
+      <edge source="al_jazeera_Organization" target="kristen_saloomey_Person" id="436" weight="1" type="co_occurs_with" />
+      <edge source="al_jazeera_Organization" target="arrest_Event" id="437" weight="1" type="co_occurs_with" />
+      <edge source="al_jazeera_Organization" target="imprisonment_Event" id="438" weight="1" type="co_occurs_with" />
+      <edge source="article_25" target="switzerland_Location" id="439" type="mentioned_in" />
+      <edge source="article_26" target="famine_Event" id="440" type="mentioned_in" />
+      <edge source="article_27" target="uae_Organization" id="441" type="mentioned_in" />
+      <edge source="article_27" target="saudi_arabia_Organization" id="442" type="mentioned_in" />
+      <edge source="article_27" target="qatar_Organization" id="443" type="mentioned_in" />
+      <edge source="article_27" target="bloomberg_news_Organization" id="444" type="mentioned_in" />
+      <edge source="article_27" target="middle_east_Location" id="445" type="mentioned_in" />
+      <edge source="uae_Organization" target="saudi_arabia_Organization" id="446" weight="1" type="co_occurs_with" />
+      <edge source="uae_Organization" target="qatar_Organization" id="447" weight="1" type="co_occurs_with" />
+      <edge source="uae_Organization" target="bloomberg_news_Organization" id="448" weight="1" type="co_occurs_with" />
+      <edge source="uae_Organization" target="middle_east_Location" id="449" weight="1" type="co_occurs_with" />
+      <edge source="saudi_arabia_Organization" target="qatar_Organization" id="450" weight="1" type="co_occurs_with" />
+      <edge source="saudi_arabia_Organization" target="bloomberg_news_Organization" id="451" weight="1" type="co_occurs_with" />
+      <edge source="saudi_arabia_Organization" target="middle_east_Location" id="452" weight="1" type="co_occurs_with" />
+      <edge source="qatar_Organization" target="bloomberg_news_Organization" id="453" weight="1" type="co_occurs_with" />
+      <edge source="qatar_Organization" target="middle_east_Location" id="454" weight="1" type="co_occurs_with" />
+      <edge source="bloomberg_news_Organization" target="middle_east_Location" id="455" weight="1" type="co_occurs_with" />
+      <edge source="article_28" target="israel_Organization" id="456" type="mentioned_in" />
+      <edge source="article_28" target="medicine_Product" id="457" type="mentioned_in" />
+      <edge source="article_28" target="aid_blockade_Event" id="458" type="mentioned_in" />
+      <edge source="article_28" target="ban_on_entry_of_all_items_Event" id="459" type="mentioned_in" />
+      <edge source="israel_Organization" target="medicine_Product" id="460" weight="1" type="co_occurs_with" />
+      <edge source="israel_Organization" target="aid_blockade_Event" id="461" weight="1" type="co_occurs_with" />
+      <edge source="israel_Organization" target="ban_on_entry_of_all_items_Event" id="462" weight="1" type="co_occurs_with" />
+      <edge source="israel_Organization" target="article_37" id="463" type="mentioned_in" />
+      <edge source="israel_Organization" target="nabatieh_Location" id="464" weight="1" type="co_occurs_with" />
+      <edge source="israel_Organization" target="lebanon_Location" id="465" weight="1" type="co_occurs_with" />
+      <edge source="israel_Organization" target="war_on_lebanon_Event" id="466" weight="1" type="co_occurs_with" />
+      <edge source="medicine_Product" target="aid_blockade_Event" id="467" weight="1" type="co_occurs_with" />
+      <edge source="medicine_Product" target="ban_on_entry_of_all_items_Event" id="468" weight="1" type="co_occurs_with" />
+      <edge source="aid_blockade_Event" target="ban_on_entry_of_all_items_Event" id="469" weight="1" type="co_occurs_with" />
+      <edge source="article_29" target="isil_Organization" id="470" type="mentioned_in" />
+      <edge source="article_29" target="syria_Location" id="471" type="mentioned_in" />
+      <edge source="isil_Organization" target="syria_Location" id="472" weight="1" type="co_occurs_with" />
+      <edge source="article_30" target="australia_Organization" id="473" type="mentioned_in" />
+      <edge source="article_30" target="jesus_casas_Person" id="474" type="mentioned_in" />
+      <edge source="article_30" target="graham_arnold_Person" id="475" type="mentioned_in" />
+      <edge source="article_30" target="iraq_Location" id="476" type="mentioned_in" />
+      <edge source="article_30" target="world_cup_qualifiers_Event" id="477" type="mentioned_in" />
+      <edge source="australia_Organization" target="jesus_casas_Person" id="478" weight="1" type="co_occurs_with" />
+      <edge source="australia_Organization" target="graham_arnold_Person" id="479" weight="1" type="co_occurs_with" />
+      <edge source="australia_Organization" target="iraq_Location" id="480" weight="1" type="co_occurs_with" />
+      <edge source="australia_Organization" target="world_cup_qualifiers_Event" id="481" weight="1" type="co_occurs_with" />
+      <edge source="jesus_casas_Person" target="graham_arnold_Person" id="482" weight="1" type="co_occurs_with" />
+      <edge source="jesus_casas_Person" target="iraq_Location" id="483" weight="1" type="co_occurs_with" />
+      <edge source="jesus_casas_Person" target="world_cup_qualifiers_Event" id="484" weight="1" type="co_occurs_with" />
+      <edge source="graham_arnold_Person" target="iraq_Location" id="485" weight="1" type="co_occurs_with" />
+      <edge source="graham_arnold_Person" target="world_cup_qualifiers_Event" id="486" weight="1" type="co_occurs_with" />
+      <edge source="iraq_Location" target="world_cup_qualifiers_Event" id="487" weight="1" type="co_occurs_with" />
+      <edge source="article_31" target="pakistan_Organization" id="488" type="mentioned_in" />
+      <edge source="article_31" target="india_Organization" id="489" type="mentioned_in" />
+      <edge source="article_31" target="missiles_Product" id="490" type="mentioned_in" />
+      <edge source="article_31" target="operation_bunyan_marsoos_Event" id="491" type="mentioned_in" />
+      <edge source="pakistan_Organization" target="india_Organization" id="492" weight="1" type="co_occurs_with" />
+      <edge source="pakistan_Organization" target="missiles_Product" id="493" weight="1" type="co_occurs_with" />
+      <edge source="pakistan_Organization" target="operation_bunyan_marsoos_Event" id="494" weight="1" type="co_occurs_with" />
+      <edge source="india_Organization" target="missiles_Product" id="495" weight="1" type="co_occurs_with" />
+      <edge source="india_Organization" target="operation_bunyan_marsoos_Event" id="496" weight="1" type="co_occurs_with" />
+      <edge source="missiles_Product" target="operation_bunyan_marsoos_Event" id="497" weight="1" type="co_occurs_with" />
+      <edge source="article_32" target="psl_Organization" id="498" type="mentioned_in" />
+      <edge source="article_32" target="uae_Location" id="499" type="mentioned_in" />
+      <edge source="article_32" target="twenty20_league_Event" id="500" type="mentioned_in" />
+      <edge source="psl_Organization" target="uae_Location" id="501" weight="1" type="co_occurs_with" />
+      <edge source="psl_Organization" target="twenty20_league_Event" id="502" weight="1" type="co_occurs_with" />
+      <edge source="uae_Location" target="twenty20_league_Event" id="503" weight="1" type="co_occurs_with" />
+      <edge source="article_33" target="nuggets_Organization" id="504" type="mentioned_in" />
+      <edge source="article_33" target="thunder_Organization" id="505" type="mentioned_in" />
+      <edge source="article_33" target="okc_thunder_Organization" id="506" type="mentioned_in" />
+      <edge source="article_33" target="nba_Organization" id="507" type="mentioned_in" />
+      <edge source="article_33" target="denver_Location" id="508" type="mentioned_in" />
+      <edge source="article_33" target="game_3_Event" id="509" type="mentioned_in" />
+      <edge source="article_33" target="game_2_Event" id="510" type="mentioned_in" />
+      <edge source="article_33" target="nba_playoffs_Event" id="511" type="mentioned_in" />
+      <edge source="article_33" target="playoff_series_Event" id="512" type="mentioned_in" />
+      <edge source="nuggets_Organization" target="thunder_Organization" id="513" weight="1" type="co_occurs_with" />
+      <edge source="nuggets_Organization" target="okc_thunder_Organization" id="514" weight="1" type="co_occurs_with" />
+      <edge source="nuggets_Organization" target="nba_Organization" id="515" weight="1" type="co_occurs_with" />
+      <edge source="nuggets_Organization" target="denver_Location" id="516" weight="1" type="co_occurs_with" />
+      <edge source="nuggets_Organization" target="game_3_Event" id="517" weight="1" type="co_occurs_with" />
+      <edge source="nuggets_Organization" target="game_2_Event" id="518" weight="1" type="co_occurs_with" />
+      <edge source="nuggets_Organization" target="nba_playoffs_Event" id="519" weight="1" type="co_occurs_with" />
+      <edge source="nuggets_Organization" target="playoff_series_Event" id="520" weight="1" type="co_occurs_with" />
+      <edge source="thunder_Organization" target="okc_thunder_Organization" id="521" weight="1" type="co_occurs_with" />
+      <edge source="thunder_Organization" target="nba_Organization" id="522" weight="1" type="co_occurs_with" />
+      <edge source="thunder_Organization" target="denver_Location" id="523" weight="1" type="co_occurs_with" />
+      <edge source="thunder_Organization" target="game_3_Event" id="524" weight="1" type="co_occurs_with" />
+      <edge source="thunder_Organization" target="game_2_Event" id="525" weight="1" type="co_occurs_with" />
+      <edge source="thunder_Organization" target="nba_playoffs_Event" id="526" weight="1" type="co_occurs_with" />
+      <edge source="thunder_Organization" target="playoff_series_Event" id="527" weight="1" type="co_occurs_with" />
+      <edge source="okc_thunder_Organization" target="nba_Organization" id="528" weight="1" type="co_occurs_with" />
+      <edge source="okc_thunder_Organization" target="denver_Location" id="529" weight="1" type="co_occurs_with" />
+      <edge source="okc_thunder_Organization" target="game_3_Event" id="530" weight="1" type="co_occurs_with" />
+      <edge source="okc_thunder_Organization" target="game_2_Event" id="531" weight="1" type="co_occurs_with" />
+      <edge source="okc_thunder_Organization" target="nba_playoffs_Event" id="532" weight="1" type="co_occurs_with" />
+      <edge source="okc_thunder_Organization" target="playoff_series_Event" id="533" weight="1" type="co_occurs_with" />
+      <edge source="nba_Organization" target="denver_Location" id="534" weight="1" type="co_occurs_with" />
+      <edge source="nba_Organization" target="game_3_Event" id="535" weight="1" type="co_occurs_with" />
+      <edge source="nba_Organization" target="game_2_Event" id="536" weight="1" type="co_occurs_with" />
+      <edge source="nba_Organization" target="nba_playoffs_Event" id="537" weight="1" type="co_occurs_with" />
+      <edge source="nba_Organization" target="playoff_series_Event" id="538" weight="1" type="co_occurs_with" />
+      <edge source="denver_Location" target="game_3_Event" id="539" weight="1" type="co_occurs_with" />
+      <edge source="denver_Location" target="game_2_Event" id="540" weight="1" type="co_occurs_with" />
+      <edge source="denver_Location" target="nba_playoffs_Event" id="541" weight="1" type="co_occurs_with" />
+      <edge source="denver_Location" target="playoff_series_Event" id="542" weight="1" type="co_occurs_with" />
+      <edge source="game_3_Event" target="game_2_Event" id="543" weight="1" type="co_occurs_with" />
+      <edge source="game_3_Event" target="nba_playoffs_Event" id="544" weight="1" type="co_occurs_with" />
+      <edge source="game_3_Event" target="playoff_series_Event" id="545" weight="1" type="co_occurs_with" />
+      <edge source="game_2_Event" target="nba_playoffs_Event" id="546" weight="1" type="co_occurs_with" />
+      <edge source="game_2_Event" target="playoff_series_Event" id="547" weight="1" type="co_occurs_with" />
+      <edge source="nba_playoffs_Event" target="playoff_series_Event" id="548" weight="1" type="co_occurs_with" />
+      <edge source="article_34" target="war_Event" id="549" type="mentioned_in" />
+      <edge source="war_Event" target="article_36" id="550" type="mentioned_in" />
+      <edge source="war_Event" target="israeli_Organization" id="551" weight="1" type="co_occurs_with" />
+      <edge source="war_Event" target="netanyahu_Person" id="552" weight="1" type="co_occurs_with" />
+      <edge source="war_Event" target="israel_Location" id="553" weight="1" type="co_occurs_with" />
+      <edge source="war_Event" target="article_39" id="554" type="mentioned_in" />
+      <edge source="war_Event" target="nuclear_weapons_Product" id="555" weight="1" type="co_occurs_with" />
+      <edge source="article_35" target="european_leaders_Organization" id="556" type="mentioned_in" />
+      <edge source="article_35" target="kremlin_Organization" id="557" type="mentioned_in" />
+      <edge source="article_35" target="kyiv_Location" id="558" type="mentioned_in" />
+      <edge source="article_35" target="truce_Event" id="559" type="mentioned_in" />
+      <edge source="article_35" target="sanctions_Event" id="560" type="mentioned_in" />
+      <edge source="european_leaders_Organization" target="kremlin_Organization" id="561" weight="1" type="co_occurs_with" />
+      <edge source="european_leaders_Organization" target="kyiv_Location" id="562" weight="1" type="co_occurs_with" />
+      <edge source="european_leaders_Organization" target="truce_Event" id="563" weight="1" type="co_occurs_with" />
+      <edge source="european_leaders_Organization" target="sanctions_Event" id="564" weight="1" type="co_occurs_with" />
+      <edge source="kremlin_Organization" target="kyiv_Location" id="565" weight="1" type="co_occurs_with" />
+      <edge source="kremlin_Organization" target="truce_Event" id="566" weight="1" type="co_occurs_with" />
+      <edge source="kremlin_Organization" target="sanctions_Event" id="567" weight="1" type="co_occurs_with" />
+      <edge source="kyiv_Location" target="truce_Event" id="568" weight="1" type="co_occurs_with" />
+      <edge source="kyiv_Location" target="sanctions_Event" id="569" weight="1" type="co_occurs_with" />
+      <edge source="truce_Event" target="sanctions_Event" id="570" weight="1" type="co_occurs_with" />
+      <edge source="article_36" target="israeli_Organization" id="571" type="mentioned_in" />
+      <edge source="article_36" target="netanyahu_Person" id="572" type="mentioned_in" />
+      <edge source="article_36" target="israel_Location" id="573" type="mentioned_in" />
+      <edge source="israeli_Organization" target="netanyahu_Person" id="574" weight="1" type="co_occurs_with" />
+      <edge source="israeli_Organization" target="israel_Location" id="575" weight="1" type="co_occurs_with" />
+      <edge source="netanyahu_Person" target="israel_Location" id="576" weight="1" type="co_occurs_with" />
+      <edge source="israel_Location" target="article_41" id="577" type="mentioned_in" />
+      <edge source="israel_Location" target="un_committee_Organization" id="578" weight="1" type="co_occurs_with" />
+      <edge source="israel_Location" target="world_Location" id="579" weight="1" type="co_occurs_with" />
+      <edge source="israel_Location" target="palestine_Location" id="580" weight="1" type="co_occurs_with" />
+      <edge source="israel_Location" target="occupied_territories_Location" id="581" weight="1" type="co_occurs_with" />
+      <edge source="israel_Location" target="nakba_Event" id="582" weight="1" type="co_occurs_with" />
+      <edge source="article_37" target="nabatieh_Location" id="583" type="mentioned_in" />
+      <edge source="article_37" target="lebanon_Location" id="584" type="mentioned_in" />
+      <edge source="article_37" target="war_on_lebanon_Event" id="585" type="mentioned_in" />
+      <edge source="nabatieh_Location" target="lebanon_Location" id="586" weight="1" type="co_occurs_with" />
+      <edge source="nabatieh_Location" target="war_on_lebanon_Event" id="587" weight="1" type="co_occurs_with" />
+      <edge source="lebanon_Location" target="war_on_lebanon_Event" id="588" weight="1" type="co_occurs_with" />
+      <edge source="article_38" target="shwe_phee_myay_Organization" id="589" type="mentioned_in" />
+      <edge source="article_38" target="myanmar_Location" id="590" type="mentioned_in" />
+      <edge source="article_38" target="shan_state_Location" id="591" type="mentioned_in" />
+      <edge source="shwe_phee_myay_Organization" target="myanmar_Location" id="592" weight="1" type="co_occurs_with" />
+      <edge source="shwe_phee_myay_Organization" target="shan_state_Location" id="593" weight="1" type="co_occurs_with" />
+      <edge source="myanmar_Location" target="shan_state_Location" id="594" weight="1" type="co_occurs_with" />
+      <edge source="article_39" target="nuclear_weapons_Product" id="595" type="mentioned_in" />
+      <edge source="article_40" target="ice_Organization" id="596" type="mentioned_in" />
+      <edge source="article_40" target="ras_baraka_Person" id="597" type="mentioned_in" />
+      <edge source="article_40" target="newark_Location" id="598" type="mentioned_in" />
+      <edge source="article_40" target="protest_Event" id="599" type="mentioned_in" />
+      <edge source="ice_Organization" target="ras_baraka_Person" id="600" weight="1" type="co_occurs_with" />
+      <edge source="ice_Organization" target="newark_Location" id="601" weight="1" type="co_occurs_with" />
+      <edge source="ice_Organization" target="protest_Event" id="602" weight="1" type="co_occurs_with" />
+      <edge source="ras_baraka_Person" target="newark_Location" id="603" weight="1" type="co_occurs_with" />
+      <edge source="ras_baraka_Person" target="protest_Event" id="604" weight="1" type="co_occurs_with" />
+      <edge source="newark_Location" target="protest_Event" id="605" weight="1" type="co_occurs_with" />
+      <edge source="article_41" target="un_committee_Organization" id="606" type="mentioned_in" />
+      <edge source="article_41" target="world_Location" id="607" type="mentioned_in" />
+      <edge source="article_41" target="palestine_Location" id="608" type="mentioned_in" />
+      <edge source="article_41" target="occupied_territories_Location" id="609" type="mentioned_in" />
+      <edge source="article_41" target="nakba_Event" id="610" type="mentioned_in" />
+      <edge source="un_committee_Organization" target="world_Location" id="611" weight="1" type="co_occurs_with" />
+      <edge source="un_committee_Organization" target="palestine_Location" id="612" weight="1" type="co_occurs_with" />
+      <edge source="un_committee_Organization" target="occupied_territories_Location" id="613" weight="1" type="co_occurs_with" />
+      <edge source="un_committee_Organization" target="nakba_Event" id="614" weight="1" type="co_occurs_with" />
+      <edge source="world_Location" target="palestine_Location" id="615" weight="1" type="co_occurs_with" />
+      <edge source="world_Location" target="occupied_territories_Location" id="616" weight="1" type="co_occurs_with" />
+      <edge source="world_Location" target="nakba_Event" id="617" weight="1" type="co_occurs_with" />
+      <edge source="palestine_Location" target="occupied_territories_Location" id="618" weight="1" type="co_occurs_with" />
+      <edge source="palestine_Location" target="nakba_Event" id="619" weight="1" type="co_occurs_with" />
+      <edge source="occupied_territories_Location" target="nakba_Event" id="620" weight="1" type="co_occurs_with" />
+      <edge source="article_42" target="new_jersey_Location" id="621" type="mentioned_in" />
+      <edge source="article_42" target="air_traffic_control_outage_Event" id="622" type="mentioned_in" />
+      <edge source="new_jersey_Location" target="air_traffic_control_outage_Event" id="623" weight="1" type="co_occurs_with" />
+      <edge source="article_43" target="drone_Product" id="624" type="mentioned_in" />
+      <edge source="article_43" target="artillery_Product" id="625" type="mentioned_in" />
+      <edge source="article_43" target="fighting_Event" id="626" type="mentioned_in" />
+      <edge source="drone_Product" target="artillery_Product" id="627" weight="1" type="co_occurs_with" />
+      <edge source="drone_Product" target="fighting_Event" id="628" weight="1" type="co_occurs_with" />
+      <edge source="artillery_Product" target="fighting_Event" id="629" weight="1" type="co_occurs_with" />
+      <edge source="article_44" target="gulf_of_mexico_Location" id="630" type="mentioned_in" />
+      <edge source="article_45" target="real_madrid_Organization" id="631" type="mentioned_in" />
+      <edge source="article_45" target="la_liga_Organization" id="632" type="mentioned_in" />
+      <edge source="article_45" target="barcelona_Location" id="633" type="mentioned_in" />
+      <edge source="article_45" target="el_clasico_Event" id="634" type="mentioned_in" />
+      <edge source="real_madrid_Organization" target="la_liga_Organization" id="635" weight="1" type="co_occurs_with" />
+      <edge source="real_madrid_Organization" target="barcelona_Location" id="636" weight="1" type="co_occurs_with" />
+      <edge source="real_madrid_Organization" target="el_clasico_Event" id="637" weight="1" type="co_occurs_with" />
+      <edge source="la_liga_Organization" target="barcelona_Location" id="638" weight="1" type="co_occurs_with" />
+      <edge source="la_liga_Organization" target="el_clasico_Event" id="639" weight="1" type="co_occurs_with" />
+      <edge source="barcelona_Location" target="el_clasico_Event" id="640" weight="1" type="co_occurs_with" />
+      <edge source="article_46" target="mohsen_mahdawi_Person" id="641" type="mentioned_in" />
+      <edge source="article_46" target="kristen_saloomey_Person" id="642" type="mentioned_in" />
+      <edge source="article_46" target="arrest_Event" id="643" type="mentioned_in" />
+      <edge source="article_46" target="imprisonment_Event" id="644" type="mentioned_in" />
+      <edge source="mohsen_mahdawi_Person" target="kristen_saloomey_Person" id="645" weight="1" type="co_occurs_with" />
+      <edge source="mohsen_mahdawi_Person" target="arrest_Event" id="646" weight="1" type="co_occurs_with" />
+      <edge source="mohsen_mahdawi_Person" target="imprisonment_Event" id="647" weight="1" type="co_occurs_with" />
+      <edge source="kristen_saloomey_Person" target="arrest_Event" id="648" weight="1" type="co_occurs_with" />
+      <edge source="kristen_saloomey_Person" target="imprisonment_Event" id="649" weight="1" type="co_occurs_with" />
+      <edge source="arrest_Event" target="imprisonment_Event" id="650" weight="1" type="co_occurs_with" />
+    </edges>
+  </graph>
+</gexf>

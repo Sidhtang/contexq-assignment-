@@ -1,0 +1,87 @@
+{
+  "timestamp": "2025-05-10T15:18:11.885280",
+  "total_risk_signals": 27,
+  "top_risk_signals": [
+    {
+      "community_id": 5,
+      "entity_count": 17,
+      "entities": [
+        "ban on entry of all items",
+        "bombardments",
+        "UN",
+        "aid blockade",
+        "attacks"
+      ],
+      "connected_articles": 7,
+      "negative_articles": 6,
+      "negative_ratio": 0.8571428571428571,
+      "risk_type": "Entity cluster with negative sentiment",
+      "impact_score": 6.0,
+      "visualization": "risk_signal_1.png"
+    },
+    {
+      "community_id": 15,
+      "entity_count": 10,
+      "entities": [
+        "Twenty20 league",
+        "war",
+        "nuclear weapons",
+        "fighting",
+        "PSL"
+      ],
+      "connected_articles": 6,
+      "negative_articles": 6,
+      "negative_ratio": 1.0,
+      "risk_type": "Entity cluster with negative sentiment",
+      "impact_score": 6.0,
+      "visualization": "risk_signal_2.png"
+    },
+    {
+      "community_id": 0,
+      "entity_count": 24,
+      "entities": [
+        "air traffic control outage",
+        "Sheinbaum",
+        "New Jersey",
+        "ICE",
+        "White House"
+      ],
+      "connected_articles": 11,
+      "negative_articles": 5,
+      "negative_ratio": 0.45454545454545453,
+      "risk_type": "Entity cluster with negative sentiment",
+      "impact_score": 5.0,
+      "visualization": "risk_signal_3.png"
+    },
+    {
+      "entity": "trump_Person",
+      "entity_name": "Trump",
+      "entity_type": "Person",
+      "degree_centrality": 0.12195121951219512,
+      "connected_articles": 7,
+      "negative_articles": 4,
+      "negative_ratio": 0.5714285714285714,
+      "risk_type": "High-visibility entity with negative sentiment",
+      "impact_score": 4.0,
+      "visualization": "risk_signal_4.png"
+    },
+    {
+      "entity": "us_Location",
+      "entity_name": "US",
+      "entity_type": "Location",
+      "degree_centrality": 0.17560975609756097,
+      "connected_articles": 9,
+      "negative_articles": 4,
+      "negative_ratio": 0.4444444444444444,
+      "risk_type": "High-visibility entity with negative sentiment",
+      "impact_score": 4.0,
+      "visualization": "risk_signal_5.png"
+    }
+  ],
+  "graph_metrics": {
+    "total_nodes": 206,
+    "total_edges": 651,
+    "density": 0.030831162680558844,
+    "average_clustering": 0.9191443290829356
+  }
+}

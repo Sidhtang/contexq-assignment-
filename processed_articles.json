@@ -1,0 +1,2137 @@
+[
+  {
+    "article_id": 0,
+    "title": "European leaders pressure Russia over 30-day Ukraine ceasefire",
+    "source": "BBC World",
+    "published_date": "2025-05-10T14:08:38",
+    "link": "https://www.bbc.com/news/articles/c87j03x9px2o",
+    "extracted_info": {
+      "entities": {
+        "organizations": [
+          "France",
+          "Britain",
+          "Germany",
+          "Poland"
+        ],
+        "persons": [
+          "Vlodomyr Zelensky"
+        ],
+        "locations": [
+          "Russia",
+          "Ukraine",
+          "European"
+        ],
+        "products": [],
+        "events": [
+          "ceasefire"
+        ]
+      },
+      "key_events": [
+        "leaders pressure Russia",
+        "discuss unconditional ceasefire",
+        "met President Vlodomyr Zelensky"
+      ],
+      "sentiment": {
+        "overall": "neutral",
+        "entity_sentiments": [
+          {
+            "entity": "Russia",
+            "sentiment": "negative"
+          },
+          {
+            "entity": "Ukraine",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Vlodomyr Zelensky",
+            "sentiment": "neutral"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "article_id": 1,
+    "title": "Trump administration considers suspending habeas corpus",
+    "source": "BBC World",
+    "published_date": "2025-05-10T10:11:59",
+    "link": "https://www.bbc.com/news/articles/c0qgz18glljo",
+    "extracted_info": {
+      "entities": {
+        "organizations": [
+          "The White House"
+        ],
+        "persons": [
+          "Trump"
+        ],
+        "locations": [],
+        "products": [],
+        "events": []
+      },
+      "key_events": [
+        "administration considers suspending habeas corpus",
+        "White House actively looking at suspending the legal right to challenge detention"
+      ],
+      "sentiment": {
+        "overall": "negative",
+        "entity_sentiments": [
+          {
+            "entity": "Trump administration",
+            "sentiment": "negative"
+          },
+          {
+            "entity": "The White House",
+            "sentiment": "negative"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "article_id": 2,
+    "title": "Maga says Pope Leo may be American, but he's not 'America first'",
+    "source": "BBC World",
+    "published_date": "2025-05-10T00:38:27",
+    "link": "https://www.bbc.com/news/articles/clyglw20lg2o",
+    "extracted_info": {
+      "entities": {
+        "organizations": [
+          "Maga"
+        ],
+        "persons": [
+          "Pope Leo XIV",
+          "Donald Trump",
+          "JD Vance"
+        ],
+        "locations": [
+          "American",
+          "America"
+        ],
+        "products": [],
+        "events": []
+      },
+      "key_events": [
+        "Pope Leo may be American",
+        "Pope Leo expressed support for immigrants",
+        "Pope Leo expressed criticism of JD Vance",
+        "Donald Trump's supporters aren't happy"
+      ],
+      "sentiment": {
+        "overall": "negative",
+        "entity_sentiments": [
+          {
+            "entity": "Pope Leo XIV",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "JD Vance",
+            "sentiment": "negative"
+          },
+          {
+            "entity": "Donald Trump's supporters",
+            "sentiment": "negative"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "article_id": 3,
+    "title": "Taylor Swift criticises Lively-Baldoni court summons",
+    "source": "BBC World",
+    "published_date": "2025-05-10T11:47:50",
+    "link": "https://www.bbc.com/news/articles/c1kv7v3z70jo",
+    "extracted_info": {
+      "entities": {
+        "organizations": [],
+        "persons": [
+          "Taylor Swift",
+          "Lively-Baldoni"
+        ],
+        "locations": [],
+        "products": [],
+        "events": []
+      },
+      "key_events": [
+        "Taylor Swift criticises Lively-Baldoni court summons",
+        "representatives say summons was designed to create tabloid clickbait"
+      ],
+      "sentiment": {
+        "overall": "negative",
+        "entity_sentiments": [
+          {
+            "entity": "Taylor Swift",
+            "sentiment": "negative"
+          },
+          {
+            "entity": "Lively-Baldoni",
+            "sentiment": "negative"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "article_id": 4,
+    "title": "How will Pope Leo lead? His first days may yield clues",
+    "source": "BBC World",
+    "published_date": "2025-05-10T03:04:49",
+    "link": "https://www.bbc.com/news/articles/c2e3d888p44o",
+    "extracted_info": {
+      "entities": {
+        "organizations": [
+          "Catholic Church"
+        ],
+        "persons": [
+          "Pope Leo"
+        ],
+        "locations": [],
+        "products": [],
+        "events": []
+      },
+      "key_events": [
+        "Pope Leo lead",
+        "yield clues",
+        "Scrutiny started",
+        "stepped on to the balcony"
+      ],
+      "sentiment": {
+        "overall": "neutral",
+        "entity_sentiments": [
+          {
+            "entity": "Pope Leo",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Catholic Church",
+            "sentiment": "neutral"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "article_id": 5,
+    "title": "Elton John and Dua Lipa seek protection from AI",
+    "source": "BBC World",
+    "published_date": "2025-05-10T00:27:24",
+    "link": "https://www.bbc.com/news/articles/c071elp1rv1o",
+    "extracted_info": {
+      "entities": {
+        "organizations": [
+          "AI"
+        ],
+        "persons": [
+          "Elton John",
+          "Dua Lipa",
+          "Sir Keir Starmer"
+        ],
+        "locations": [],
+        "products": [],
+        "events": []
+      },
+      "key_events": [
+        "Elton John and Dua Lipa seek protection",
+        "artists appealing",
+        "industries are threatened"
+      ],
+      "sentiment": {
+        "overall": "negative",
+        "entity_sentiments": [
+          {
+            "entity": "Elton John",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Dua Lipa",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "AI",
+            "sentiment": "negative"
+          },
+          {
+            "entity": "Sir Keir Starmer",
+            "sentiment": "neutral"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "article_id": 6,
+    "title": "Mexico sues Google over 'Gulf of America' name change",
+    "source": "BBC World",
+    "published_date": "2025-05-09T18:10:02",
+    "link": "https://www.bbc.com/news/articles/c5yk5nj7p7ko",
+    "extracted_info": {
+      "entities": {
+        "organizations": [
+          "Google"
+        ],
+        "persons": [
+          "Sheinbaum",
+          "Trump"
+        ],
+        "locations": [
+          "Mexico",
+          "Gulf of America",
+          "US"
+        ],
+        "products": [],
+        "events": []
+      },
+      "key_events": [
+        "Mexico sues Google",
+        "name change",
+        "President Sheinbaum argues",
+        "executive order applies"
+      ],
+      "sentiment": {
+        "overall": "negative",
+        "entity_sentiments": [
+          {
+            "entity": "Mexico",
+            "sentiment": "negative"
+          },
+          {
+            "entity": "Google",
+            "sentiment": "negative"
+          },
+          {
+            "entity": "Sheinbaum",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Trump",
+            "sentiment": "neutral"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "article_id": 7,
+    "title": "Turkish Tufts University student released from immigration facility",
+    "source": "BBC World",
+    "published_date": "2025-05-10T00:04:32",
+    "link": "https://www.bbc.com/news/articles/cp3nd0dwlpgo",
+    "extracted_info": {
+      "entities": {
+        "organizations": [
+          "Tufts University",
+          "White House"
+        ],
+        "persons": [],
+        "locations": [
+          "US"
+        ],
+        "products": [],
+        "events": []
+      },
+      "key_events": [
+        "student released from immigration facility",
+        "arrest followed crackdown",
+        "crackdown on antisemitism"
+      ],
+      "sentiment": {
+        "overall": "neutral",
+        "entity_sentiments": [
+          {
+            "entity": "Turkish Tufts University student",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "White House",
+            "sentiment": "negative"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "article_id": 8,
+    "title": "US confirms plan for private firms to deliver Gaza aid despite UN alarm",
+    "source": "BBC World",
+    "published_date": "2025-05-09T15:20:18",
+    "link": "https://www.bbc.com/news/articles/cp92rlm300mo",
+    "extracted_info": {
+      "entities": {
+        "organizations": [
+          "US",
+          "UN"
+        ],
+        "persons": [],
+        "locations": [
+          "Gaza"
+        ],
+        "products": [],
+        "events": []
+      },
+      "key_events": [
+        "confirms plan",
+        "firms to deliver Gaza aid",
+        "UN agencies say they will not co-operate",
+        "appears to weaponise aid"
+      ],
+      "sentiment": {
+        "overall": "negative",
+        "entity_sentiments": [
+          {
+            "entity": "US",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "UN",
+            "sentiment": "negative"
+          },
+          {
+            "entity": "Gaza",
+            "sentiment": "negative"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "article_id": 9,
+    "title": "Xi shows he wants to be close to Putin - but not too close",
+    "source": "BBC World",
+    "published_date": "2025-05-09T14:07:06",
+    "link": "https://www.bbc.com/news/articles/c753ng233nvo",
+    "extracted_info": {
+      "entities": {
+        "organizations": [],
+        "persons": [
+          "Xi",
+          "Putin"
+        ],
+        "locations": [
+          "China",
+          "Russia"
+        ],
+        "products": [],
+        "events": []
+      },
+      "key_events": [
+        "Xi shows he wants to be close to Putin",
+        "relationship is no longer one of equals"
+      ],
+      "sentiment": {
+        "overall": "neutral",
+        "entity_sentiments": [
+          {
+            "entity": "Xi",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Putin",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "China",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Russia",
+            "sentiment": "neutral"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "article_id": 10,
+    "title": "No water, no power - Port Sudan reeling after week of attacks",
+    "source": "BBC World",
+    "published_date": "2025-05-10T04:14:11",
+    "link": "https://www.bbc.com/news/articles/c6293qgd46zo",
+    "extracted_info": {
+      "entities": {
+        "organizations": [],
+        "persons": [],
+        "locations": [
+          "Port Sudan"
+        ],
+        "products": [],
+        "events": [
+          "civil war",
+          "attacks",
+          "bombardments"
+        ]
+      },
+      "key_events": [
+        "No water, no power",
+        "Port Sudan reeling",
+        "city has escaped worst",
+        "targeted in a series of bombardments"
+      ],
+      "sentiment": {
+        "overall": "negative",
+        "entity_sentiments": [
+          {
+            "entity": "Port Sudan",
+            "sentiment": "negative"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "article_id": 11,
+    "title": "Moon dust 'rarer than gold' arrives in UK from China",
+    "source": "BBC World",
+    "published_date": "2025-05-08T23:25:38",
+    "link": "https://www.bbc.com/news/articles/c4g3krykxypo",
+    "extracted_info": {
+      "entities": {
+        "organizations": [
+          "China"
+        ],
+        "persons": [],
+        "locations": [
+          "Moon",
+          "UK"
+        ],
+        "products": [
+          "Moon dust",
+          "gold"
+        ],
+        "events": []
+      },
+      "key_events": [
+        "Moon dust arrives in UK",
+        "samples collected",
+        "loaned by China"
+      ],
+      "sentiment": {
+        "overall": "neutral",
+        "entity_sentiments": [
+          {
+            "entity": "Moon dust",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "China",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "UK",
+            "sentiment": "neutral"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "article_id": 12,
+    "title": "'I freaked out and spent $400 online': US consumers on cheap shipping changes",
+    "source": "BBC World",
+    "published_date": "2025-05-10T04:01:38",
+    "link": "https://www.bbc.com/news/articles/c4g2j45d5zeo",
+    "extracted_info": {
+      "entities": {
+        "organizations": [],
+        "persons": [],
+        "locations": [
+          "US"
+        ],
+        "products": [],
+        "events": []
+      },
+      "key_events": [
+        "spent $400 online",
+        "reacting to shipping changes",
+        "packages entering US",
+        "no longer avoid tariffs"
+      ],
+      "sentiment": {
+        "overall": "neutral",
+        "entity_sentiments": [
+          {
+            "entity": "US consumers",
+            "sentiment": "negative"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "article_id": 13,
+    "title": "Witchcraft, innuendo and moody goth boys: Your guide to all 37 Eurovision songs",
+    "source": "BBC World",
+    "published_date": "2025-05-10T03:15:58",
+    "link": "https://www.bbc.com/news/articles/c9vg8k4zxk9o",
+    "extracted_info": {
+      "entities": {
+        "organizations": [],
+        "persons": [],
+        "locations": [],
+        "products": [],
+        "events": [
+          "Eurovision",
+          "Eurovision 2025"
+        ]
+      },
+      "key_events": [
+        "guide to Eurovision songs",
+        "artists taking part",
+        "taking part in Eurovision 2025"
+      ],
+      "sentiment": {
+        "overall": "neutral",
+        "entity_sentiments": [
+          {
+            "entity": "Eurovision",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Eurovision 2025",
+            "sentiment": "neutral"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "article_id": 14,
+    "title": "The US and China are finally talking. Why now?",
+    "source": "BBC World",
+    "published_date": "2025-05-09T22:57:32",
+    "link": "https://www.bbc.com/news/articles/c74qjjvzlgjo",
+    "extracted_info": {
+      "entities": {
+        "organizations": [
+          "US",
+          "China"
+        ],
+        "persons": [
+          "Donald Trump",
+          "Xi Jinping"
+        ],
+        "locations": [],
+        "products": [],
+        "events": [
+          "trade war"
+        ]
+      },
+      "key_events": [
+        "talking",
+        "seeking an off-ramp"
+      ],
+      "sentiment": {
+        "overall": "neutral",
+        "entity_sentiments": [
+          {
+            "entity": "US",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "China",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Donald Trump",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Xi Jinping",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "trade war",
+            "sentiment": "negative"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "article_id": 15,
+    "title": "How can India and Pakistan find a way to de-escalate?",
+    "source": "BBC World",
+    "published_date": "2025-05-09T15:20:10",
+    "link": "https://www.bbc.com/news/articles/clyzg8ygeezo",
+    "extracted_info": {
+      "entities": {
+        "organizations": [],
+        "persons": [],
+        "locations": [
+          "India",
+          "Pakistan"
+        ],
+        "products": [],
+        "events": []
+      },
+      "key_events": [
+        "find a way to de-escalate",
+        "blame each other",
+        "escalating military tensions"
+      ],
+      "sentiment": {
+        "overall": "negative",
+        "entity_sentiments": [
+          {
+            "entity": "India",
+            "sentiment": "negative"
+          },
+          {
+            "entity": "Pakistan",
+            "sentiment": "negative"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "article_id": 16,
+    "title": "Hong Kong pro-China informer: 'Why I've reported dozens of people to police'",
+    "source": "BBC World",
+    "published_date": "2025-05-08T23:02:07",
+    "link": "https://www.bbc.com/news/articles/c87p97w72exo",
+    "extracted_info": {
+      "entities": {
+        "organizations": [
+          "Beijing"
+        ],
+        "persons": [
+          "Innes Tang"
+        ],
+        "locations": [
+          "Hong Kong"
+        ],
+        "products": [],
+        "events": []
+      },
+      "key_events": [
+        "reported dozens of people to police",
+        "established a hotline for reporting behaviours"
+      ],
+      "sentiment": {
+        "overall": "negative",
+        "entity_sentiments": [
+          {
+            "entity": "Innes Tang",
+            "sentiment": "negative"
+          },
+          {
+            "entity": "Hong Kong",
+            "sentiment": "negative"
+          },
+          {
+            "entity": "Beijing",
+            "sentiment": "negative"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "article_id": 17,
+    "title": "White House 'actively looking at' suspending habeas corpus",
+    "source": "BBC World",
+    "published_date": "2025-05-10T10:24:28",
+    "link": "https://www.bbc.com/news/videos/cj0949qnlz2o",
+    "extracted_info": {
+      "entities": {
+        "organizations": [
+          "White House",
+          "Trump administration"
+        ],
+        "persons": [
+          "Miller",
+          "Trump"
+        ],
+        "locations": [],
+        "products": [],
+        "events": []
+      },
+      "key_events": [
+        "White House 'actively looking at' suspending habeas corpus",
+        "judges have sought to challenge detentions",
+        "detentions made by the Trump administration",
+        "effort to combat illegal immigration"
+      ],
+      "sentiment": {
+        "overall": "neutral",
+        "entity_sentiments": [
+          {
+            "entity": "White House",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Miller",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Trump administration",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "judges",
+            "sentiment": "negative"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "article_id": 18,
+    "title": "Watch: Steve Rosenberg reports from Russia's Red Square on Victory Day",
+    "source": "BBC World",
+    "published_date": "2025-05-09T16:52:33",
+    "link": "https://www.bbc.com/news/videos/cwyvx9zeq04o",
+    "extracted_info": {
+      "entities": {
+        "organizations": [
+          "Russia",
+          "Moscow"
+        ],
+        "persons": [
+          "Steve Rosenberg",
+          "Vladimir Putin"
+        ],
+        "locations": [
+          "Red Square"
+        ],
+        "products": [],
+        "events": [
+          "Victory Day",
+          "annual parade"
+        ]
+      },
+      "key_events": [
+        "Steve Rosenberg reports",
+        "Vladimir Putin leads commemorations",
+        "Moscow marks its annual parade"
+      ],
+      "sentiment": {
+        "overall": "neutral",
+        "entity_sentiments": [
+          {
+            "entity": "Steve Rosenberg",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Vladimir Putin",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Russia",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Victory Day",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Red Square",
+            "sentiment": "neutral"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "article_id": 19,
+    "title": "Watch: Trump misspeaks and calls toy firm Mattel a country",
+    "source": "BBC World",
+    "published_date": "2025-05-09T14:30:30",
+    "link": "https://www.bbc.com/news/videos/cn4q950zxgqo",
+    "extracted_info": {
+      "entities": {
+        "organizations": [
+          "Mattel"
+        ],
+        "persons": [
+          "Trump"
+        ],
+        "locations": [
+          "US"
+        ],
+        "products": [],
+        "events": []
+      },
+      "key_events": [
+        "Trump misspeaks",
+        "Trump calls toy firm Mattel a country",
+        "president says tariffs are \"the most misunderstood thing\"",
+        "threatens more action"
+      ],
+      "sentiment": {
+        "overall": "negative",
+        "entity_sentiments": [
+          {
+            "entity": "Trump",
+            "sentiment": "negative"
+          },
+          {
+            "entity": "Mattel",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "US",
+            "sentiment": "neutral"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "article_id": 20,
+    "title": "Three things we learned from Putin's Red Square parade",
+    "source": "BBC World",
+    "published_date": "2025-05-09T13:06:20",
+    "link": "https://www.bbc.com/news/videos/ce398qkn5pno",
+    "extracted_info": {
+      "entities": {
+        "organizations": [
+          "BC Monitoring"
+        ],
+        "persons": [
+          "Putin",
+          "Vitaly Shevchenko"
+        ],
+        "locations": [
+          "Red Square",
+          "Moscow",
+          "Russia"
+        ],
+        "products": [],
+        "events": [
+          "Victory Day"
+        ]
+      },
+      "key_events": [
+        "learned from Putin's Red Square parade",
+        "reflects on the Victory Day spectacle"
+      ],
+      "sentiment": {
+        "overall": "neutral",
+        "entity_sentiments": [
+          {
+            "entity": "Putin",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Vitaly Shevchenko",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Russia",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Victory Day",
+            "sentiment": "neutral"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "article_id": 21,
+    "title": "Watch: Pope Leo XIV's first Mass as pontiff",
+    "source": "BBC World",
+    "published_date": "2025-05-09T11:14:27",
+    "link": "https://www.bbc.com/news/videos/clynwrek3exo",
+    "extracted_info": {
+      "entities": {
+        "organizations": [
+          "Cardinals"
+        ],
+        "persons": [
+          "Pope Leo XIV"
+        ],
+        "locations": [
+          "Sistine Chapel"
+        ],
+        "products": [],
+        "events": [
+          "Mass"
+        ]
+      },
+      "key_events": [
+        "Pope Leo XIV's first Mass",
+        "Cardinals joined",
+        "service began with a prayer"
+      ],
+      "sentiment": {
+        "overall": "neutral",
+        "entity_sentiments": [
+          {
+            "entity": "Pope Leo XIV",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Cardinals",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Sistine Chapel",
+            "sentiment": "neutral"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "article_id": 22,
+    "title": "Iran\u2019s FM visits Saudi Arabia, Qatar before nuclear talks with US in Oman",
+    "source": "Al Jazeera",
+    "published_date": "2025-05-10T14:55:39",
+    "link": "https://www.aljazeera.com/news/2025/5/10/irans-fm-visits-saudi-arabia-qatar-before-nuclear-talks-with-us-in-oman?traffic_source=rss",
+    "extracted_info": {
+      "entities": {
+        "organizations": [
+          "Iranian Foreign Ministry"
+        ],
+        "persons": [],
+        "locations": [
+          "Saudi Arabia",
+          "Qatar",
+          "Oman",
+          "Iran",
+          "US"
+        ],
+        "products": [],
+        "events": [
+          "nuclear talks"
+        ]
+      },
+      "key_events": [
+        "Iran\u2019s FM visits Saudi Arabia",
+        "Iran\u2019s FM visits Qatar",
+        "nuclear talks with US in Oman",
+        "technical delegation at the Iran-US talks"
+      ],
+      "sentiment": {
+        "overall": "neutral",
+        "entity_sentiments": [
+          {
+            "entity": "Iran",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Saudi Arabia",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Qatar",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Oman",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "US",
+            "sentiment": "neutral"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "article_id": 23,
+    "title": "Pope Leo identifies AI as main challenge in first meeting with cardinals",
+    "source": "Al Jazeera",
+    "published_date": "2025-05-10T14:34:01",
+    "link": "https://www.aljazeera.com/news/2025/5/10/pope-leo-says-ai-is-main-challenge-for-humanity-in-address-to-cardinals?traffic_source=rss",
+    "extracted_info": {
+      "entities": {
+        "organizations": [
+          "Pope"
+        ],
+        "persons": [
+          "Pope Leo",
+          "Pope Francis"
+        ],
+        "locations": [],
+        "products": [
+          "AI"
+        ],
+        "events": [
+          "first meeting with cardinals"
+        ]
+      },
+      "key_events": [
+        "identifies AI as main challenge",
+        "sets out vision",
+        "pledging to continue legacy"
+      ],
+      "sentiment": {
+        "overall": "neutral",
+        "entity_sentiments": [
+          {
+            "entity": "Pope Leo",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "AI",
+            "sentiment": "negative"
+          },
+          {
+            "entity": "Pope Francis",
+            "sentiment": "positive"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "article_id": 24,
+    "title": "Liverpool vs Arsenal: Premier League \u2013 Start time, team news, lineups",
+    "source": "Al Jazeera",
+    "published_date": "2025-05-10T12:54:44",
+    "link": "https://www.aljazeera.com/sports/2025/5/10/liverpool-vs-arsenal-premier-league-team-news-how-to-follow-stream?traffic_source=rss",
+    "extracted_info": {
+      "entities": {
+        "organizations": [
+          "Liverpool",
+          "Arsenal",
+          "Al Jazeera",
+          "Premier League"
+        ],
+        "persons": [],
+        "locations": [],
+        "products": [],
+        "events": []
+      },
+      "key_events": [
+        "Liverpool vs Arsenal",
+        "Arsenal look to salvage pride",
+        "newly crowned Premier League champions"
+      ],
+      "sentiment": {
+        "overall": "neutral",
+        "entity_sentiments": [
+          {
+            "entity": "Arsenal",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Liverpool",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Premier League",
+            "sentiment": "positive"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "article_id": 25,
+    "title": "China, US hold talks on tariffs in first bid to de-escalate trade war",
+    "source": "Al Jazeera",
+    "published_date": "2025-05-10T12:50:13",
+    "link": "https://www.aljazeera.com/news/2025/5/10/us-and-chinese-officials-hold-geneva-talks-to-de-escalate-trade-war?traffic_source=rss",
+    "extracted_info": {
+      "entities": {
+        "organizations": [
+          "US"
+        ],
+        "persons": [],
+        "locations": [
+          "China",
+          "Switzerland"
+        ],
+        "products": [],
+        "events": [
+          "trade war"
+        ]
+      },
+      "key_events": [
+        "China, US hold talks",
+        "bid to de-escalate trade war",
+        "Analysts have low expectations",
+        "host Switzerland hopes \u2018road map\u2019 will emerge"
+      ],
+      "sentiment": {
+        "overall": "neutral",
+        "entity_sentiments": [
+          {
+            "entity": "China",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "US",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "trade war",
+            "sentiment": "negative"
+          },
+          {
+            "entity": "Switzerland",
+            "sentiment": "positive"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "article_id": 26,
+    "title": "My nephew asks if he will eat meat only in heaven. I struggle to answer",
+    "source": "Al Jazeera",
+    "published_date": "2025-05-10T12:10:40",
+    "link": "https://www.aljazeera.com/opinions/2025/5/10/my-nephew-asks-if-he-will-eat-meat-only-in-heaven-i-struggle-to-answer?traffic_source=rss",
+    "extracted_info": {
+      "entities": {
+        "organizations": [],
+        "persons": [],
+        "locations": [
+          "Gaza"
+        ],
+        "products": [],
+        "events": [
+          "famine"
+        ]
+      },
+      "key_events": [
+        "nephew asks if he will eat meat only in heaven",
+        "I struggle to answer",
+        "explain the famine in Gaza"
+      ],
+      "sentiment": {
+        "overall": "negative",
+        "entity_sentiments": [
+          {
+            "entity": "Gaza",
+            "sentiment": "negative"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "article_id": 27,
+    "title": "US to fast-track investments from Middle East before Trump trip: Report",
+    "source": "Al Jazeera",
+    "published_date": "2025-05-10T11:46:13",
+    "link": "https://www.aljazeera.com/economy/2025/5/10/us-to-fast-track-investments-from-middle-east-before-trump-trip-report?traffic_source=rss",
+    "extracted_info": {
+      "entities": {
+        "organizations": [
+          "UAE",
+          "Saudi Arabia",
+          "Qatar",
+          "Bloomberg News"
+        ],
+        "persons": [
+          "Trump"
+        ],
+        "locations": [
+          "US",
+          "Middle East"
+        ],
+        "products": [],
+        "events": []
+      },
+      "key_events": [
+        "US to fast-track investments",
+        "investments by UAE, Saudi Arabia and Qatar"
+      ],
+      "sentiment": {
+        "overall": "neutral",
+        "entity_sentiments": [
+          {
+            "entity": "US",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "UAE",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Saudi Arabia",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Qatar",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Trump",
+            "sentiment": "neutral"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "article_id": 28,
+    "title": "Children among 13 killed in Israel\u2019s attacks on Gaza amid aid blockade",
+    "source": "Al Jazeera",
+    "published_date": "2025-05-10T11:36:53",
+    "link": "https://www.aljazeera.com/news/2025/5/10/israel-kills-in-gaza-as-it-throttles-enclave-under-aid-blockade?traffic_source=rss",
+    "extracted_info": {
+      "entities": {
+        "organizations": [
+          "Israel"
+        ],
+        "persons": [],
+        "locations": [
+          "Gaza"
+        ],
+        "products": [
+          "medicine"
+        ],
+        "events": [
+          "attacks",
+          "aid blockade",
+          "ban on entry of all items"
+        ]
+      },
+      "key_events": [
+        "13 killed in Israel\u2019s attacks on Gaza",
+        "aid blockade",
+        "Israel's ban on entry of all items",
+        "Cancer and diabetes patients suffering"
+      ],
+      "sentiment": {
+        "overall": "negative",
+        "entity_sentiments": [
+          {
+            "entity": "Israel",
+            "sentiment": "negative"
+          },
+          {
+            "entity": "Gaza",
+            "sentiment": "negative"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "article_id": 29,
+    "title": "Qatar leads Syria search for bodies of US hostages killed by ISIL: Report",
+    "source": "Al Jazeera",
+    "published_date": "2025-05-10T10:21:07",
+    "link": "https://www.aljazeera.com/news/2025/5/10/qatari-mission-searches-for-bodies-of-us-hostages-killed-by-isil-in-syria?traffic_source=rss",
+    "extracted_info": {
+      "entities": {
+        "organizations": [
+          "ISIL"
+        ],
+        "persons": [],
+        "locations": [
+          "Qatar",
+          "Syria"
+        ],
+        "products": [],
+        "events": []
+      },
+      "key_events": [
+        "Qatar leads Syria search",
+        "search for bodies of US hostages",
+        "bodies killed by ISIL",
+        "group has found remains"
+      ],
+      "sentiment": {
+        "overall": "negative",
+        "entity_sentiments": [
+          {
+            "entity": "Qatar",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Syria",
+            "sentiment": "negative"
+          },
+          {
+            "entity": "ISIL",
+            "sentiment": "negative"
+          },
+          {
+            "entity": "US hostages",
+            "sentiment": "negative"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "article_id": 30,
+    "title": "Iraq look to former Australia coach Arnold to boost 2026 World Cup hopes",
+    "source": "Al Jazeera",
+    "published_date": "2025-05-10T09:43:04",
+    "link": "https://www.aljazeera.com/sports/2025/5/10/iraq-look-to-former-australia-coach-arnold-to-boost-2026-world-cup-hopes?traffic_source=rss",
+    "extracted_info": {
+      "entities": {
+        "organizations": [
+          "Australia"
+        ],
+        "persons": [
+          "Jesus Casas",
+          "Graham Arnold"
+        ],
+        "locations": [
+          "Iraq"
+        ],
+        "products": [],
+        "events": [
+          "World Cup qualifiers"
+        ]
+      },
+      "key_events": [
+        "Iraq look to former Australia coach",
+        "boost 2026 World Cup hopes",
+        "Iraq replaces Jesus Casas",
+        "Graham Arnold ahead of crunch World Cup qualifiers"
+      ],
+      "sentiment": {
+        "overall": "neutral",
+        "entity_sentiments": [
+          {
+            "entity": "Iraq",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Graham Arnold",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Jesus Casas",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Australia",
+            "sentiment": "neutral"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "article_id": 31,
+    "title": "Pakistan launches Operation Bunyan Marsoos: What we know so far",
+    "source": "Al Jazeera",
+    "published_date": "2025-05-10T09:39:23",
+    "link": "https://www.aljazeera.com/news/2025/5/10/pakistan-launches-operation-bunyan-marsoos-what-we-know-so-far?traffic_source=rss",
+    "extracted_info": {
+      "entities": {
+        "organizations": [
+          "Pakistan",
+          "India"
+        ],
+        "persons": [],
+        "locations": [],
+        "products": [
+          "missiles"
+        ],
+        "events": [
+          "Operation Bunyan Marsoos"
+        ]
+      },
+      "key_events": [
+        "Pakistan launches Operation Bunyan Marsoos",
+        "Pakistan and India fired missiles",
+        "escalation between the neighbours"
+      ],
+      "sentiment": {
+        "overall": "negative",
+        "entity_sentiments": [
+          {
+            "entity": "Pakistan",
+            "sentiment": "negative"
+          },
+          {
+            "entity": "India",
+            "sentiment": "negative"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "article_id": 32,
+    "title": "Pakistan postpones PSL T20 cricket amid clashes with India",
+    "source": "Al Jazeera",
+    "published_date": "2025-05-10T08:59:20",
+    "link": "https://www.aljazeera.com/sports/2025/5/10/pakistan-postpones-psl-t20-cricket-amid-clashes-with-india?traffic_source=rss",
+    "extracted_info": {
+      "entities": {
+        "organizations": [
+          "PSL"
+        ],
+        "persons": [],
+        "locations": [
+          "Pakistan",
+          "India",
+          "UAE"
+        ],
+        "products": [],
+        "events": [
+          "Twenty20 league"
+        ]
+      },
+      "key_events": [
+        "Pakistan postpones PSL",
+        "Scrapping UAE relocation plan",
+        "Tension with India escalates"
+      ],
+      "sentiment": {
+        "overall": "negative",
+        "entity_sentiments": [
+          {
+            "entity": "Pakistan",
+            "sentiment": "negative"
+          },
+          {
+            "entity": "PSL",
+            "sentiment": "negative"
+          },
+          {
+            "entity": "India",
+            "sentiment": "negative"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "article_id": 33,
+    "title": "Nuggets outlast Thunder in Game 3 overtime thriller in NBA playoffs",
+    "source": "Al Jazeera",
+    "published_date": "2025-05-10T08:13:49",
+    "link": "https://www.aljazeera.com/sports/2025/5/10/nuggets-outlast-thunder-in-game-3-overtime-thriller-in-nba-playoffs?traffic_source=rss",
+    "extracted_info": {
+      "entities": {
+        "organizations": [
+          "Nuggets",
+          "Thunder",
+          "OKC Thunder",
+          "NBA"
+        ],
+        "persons": [],
+        "locations": [
+          "Denver"
+        ],
+        "products": [],
+        "events": [
+          "Game 3",
+          "Game 2",
+          "NBA playoffs",
+          "playoff series"
+        ]
+      },
+      "key_events": [
+        "Nuggets outlast Thunder",
+        "Denver Nuggets bounce back",
+        "steal a 2-1 series lead"
+      ],
+      "sentiment": {
+        "overall": "positive",
+        "entity_sentiments": [
+          {
+            "entity": "Nuggets",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Thunder",
+            "sentiment": "negative"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "article_id": 34,
+    "title": "Russia-Ukraine war: List of key events, day 1,171",
+    "source": "Al Jazeera",
+    "published_date": "2025-05-10T08:06:25",
+    "link": "https://www.aljazeera.com/news/2025/5/10/russia-ukraine-war-list-of-key-events-day-1171?traffic_source=rss",
+    "extracted_info": {
+      "entities": {
+        "organizations": [],
+        "persons": [],
+        "locations": [
+          "Russia",
+          "Ukraine"
+        ],
+        "products": [],
+        "events": [
+          "war"
+        ]
+      },
+      "key_events": [
+        "Russia\u2019s war on Ukraine"
+      ],
+      "sentiment": {
+        "overall": "negative",
+        "entity_sentiments": [
+          {
+            "entity": "Russia",
+            "sentiment": "negative"
+          },
+          {
+            "entity": "Ukraine",
+            "sentiment": "negative"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "article_id": 35,
+    "title": "European leaders in Ukraine\u2019s Kyiv press Russia for 30-day ceasefire",
+    "source": "Al Jazeera",
+    "published_date": "2025-05-10T08:02:39",
+    "link": "https://www.aljazeera.com/news/2025/5/10/european-leaders-in-ukraines-kyiv-to-press-russia-for-30-day-ceasefire?traffic_source=rss",
+    "extracted_info": {
+      "entities": {
+        "organizations": [
+          "European leaders",
+          "Kremlin"
+        ],
+        "persons": [],
+        "locations": [
+          "Ukraine",
+          "Kyiv",
+          "Russia"
+        ],
+        "products": [],
+        "events": [
+          "ceasefire",
+          "truce",
+          "sanctions"
+        ]
+      },
+      "key_events": [
+        "leaders press Russia for ceasefire",
+        "Kremlin dismisses demands",
+        "threat of sanctions"
+      ],
+      "sentiment": {
+        "overall": "negative",
+        "entity_sentiments": [
+          {
+            "entity": "European leaders",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Russia",
+            "sentiment": "negative"
+          },
+          {
+            "entity": "Kremlin",
+            "sentiment": "negative"
+          },
+          {
+            "entity": "Ukraine",
+            "sentiment": "negative"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "article_id": 36,
+    "title": "Netanyahu\u2019s war choices fuel discord in Israel over captives\u2019 fate in Gaza",
+    "source": "Al Jazeera",
+    "published_date": "2025-05-10T07:11:05",
+    "link": "https://www.aljazeera.com/news/2025/5/10/netanyahus-war-choices-fuel-discord-in-israel-over-captives-fate-in-gaza?traffic_source=rss",
+    "extracted_info": {
+      "entities": {
+        "organizations": [
+          "Israeli"
+        ],
+        "persons": [
+          "Netanyahu"
+        ],
+        "locations": [
+          "Israel",
+          "Gaza"
+        ],
+        "products": [],
+        "events": [
+          "war"
+        ]
+      },
+      "key_events": [
+        "Netanyahu\u2019s war choices fuel discord",
+        "reservists refuse duty",
+        "supporting a war"
+      ],
+      "sentiment": {
+        "overall": "negative",
+        "entity_sentiments": [
+          {
+            "entity": "Netanyahu",
+            "sentiment": "negative"
+          },
+          {
+            "entity": "Israel",
+            "sentiment": "negative"
+          },
+          {
+            "entity": "Gaza",
+            "sentiment": "negative"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "article_id": 37,
+    "title": "After Israel\u2019s bombs, Nabatieh\u2019s Monday Market revives itself once again",
+    "source": "Al Jazeera",
+    "published_date": "2025-05-10T07:10:40",
+    "link": "https://www.aljazeera.com/features/2025/5/10/after-israel-bombs-nabatieh-monday-market-revives-itself-once-again?traffic_source=rss",
+    "extracted_info": {
+      "entities": {
+        "organizations": [
+          "Israel"
+        ],
+        "persons": [],
+        "locations": [
+          "Nabatieh",
+          "Lebanon"
+        ],
+        "products": [],
+        "events": [
+          "war on Lebanon"
+        ]
+      },
+      "key_events": [
+        "bombs dropped",
+        "market destroyed",
+        "market revives",
+        "vendors returning",
+        "customers returning"
+      ],
+      "sentiment": {
+        "overall": "neutral",
+        "entity_sentiments": [
+          {
+            "entity": "Nabatieh",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Israel",
+            "sentiment": "negative"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "article_id": 38,
+    "title": "Reporting from behind shifting front lines in Myanmar\u2019s civil war",
+    "source": "Al Jazeera",
+    "published_date": "2025-05-10T03:38:43",
+    "link": "https://www.aljazeera.com/news/2025/5/10/reporting-from-behind-shifting-front-lines-in-myanmars-civil-war?traffic_source=rss",
+    "extracted_info": {
+      "entities": {
+        "organizations": [
+          "Shwe Phee Myay"
+        ],
+        "persons": [],
+        "locations": [
+          "Myanmar",
+          "Shan State"
+        ],
+        "products": [],
+        "events": [
+          "civil war"
+        ]
+      },
+      "key_events": [
+        "Reporting from behind shifting front lines",
+        "continue to report amid civil war",
+        "repression"
+      ],
+      "sentiment": {
+        "overall": "negative",
+        "entity_sentiments": [
+          {
+            "entity": "Myanmar",
+            "sentiment": "negative"
+          },
+          {
+            "entity": "Shwe Phee Myay",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Shan State",
+            "sentiment": "neutral"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "article_id": 39,
+    "title": "Could India, Pakistan use nuclear weapons? Here\u2019s what their doctrines say",
+    "source": "Al Jazeera",
+    "published_date": "2025-05-10T03:37:37",
+    "link": "https://www.aljazeera.com/news/2025/5/10/could-india-pakistan-use-nuclear-weapons-heres-what-their-doctrines-say?traffic_source=rss",
+    "extracted_info": {
+      "entities": {
+        "organizations": [],
+        "persons": [],
+        "locations": [
+          "India",
+          "Pakistan"
+        ],
+        "products": [
+          "nuclear weapons"
+        ],
+        "events": [
+          "war"
+        ]
+      },
+      "key_events": [
+        "India and Pakistan use nuclear weapons",
+        "full-blown war",
+        "war between two nuclear-armed nations"
+      ],
+      "sentiment": {
+        "overall": "negative",
+        "entity_sentiments": [
+          {
+            "entity": "India",
+            "sentiment": "negative"
+          },
+          {
+            "entity": "Pakistan",
+            "sentiment": "negative"
+          },
+          {
+            "entity": "nuclear weapons",
+            "sentiment": "negative"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "article_id": 40,
+    "title": "Newark Mayor Ras Baraka arrested during ICE detention centre protest",
+    "source": "Al Jazeera",
+    "published_date": "2025-05-09T23:13:15",
+    "link": "https://www.aljazeera.com/news/2025/5/9/newark-mayor-ras-baraka-arrested-during-ice-detention-centre-protest?traffic_source=rss",
+    "extracted_info": {
+      "entities": {
+        "organizations": [
+          "ICE"
+        ],
+        "persons": [
+          "Ras Baraka"
+        ],
+        "locations": [
+          "Newark",
+          "US"
+        ],
+        "products": [],
+        "events": [
+          "protest"
+        ]
+      },
+      "key_events": [
+        "Ras Baraka arrested",
+        "committed trespass",
+        "protest of facility",
+        "opened without proper permits"
+      ],
+      "sentiment": {
+        "overall": "negative",
+        "entity_sentiments": [
+          {
+            "entity": "Ras Baraka",
+            "sentiment": "negative"
+          },
+          {
+            "entity": "ICE",
+            "sentiment": "negative"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "article_id": 41,
+    "title": "World could be witnessing \u2018another Nakba\u2019 in Palestine, UN committee warns",
+    "source": "Al Jazeera",
+    "published_date": "2025-05-09T21:32:52",
+    "link": "https://www.aljazeera.com/news/2025/5/9/gaza-could-experience-another-nakba-warns-un-committee?traffic_source=rss",
+    "extracted_info": {
+      "entities": {
+        "organizations": [
+          "UN committee"
+        ],
+        "persons": [],
+        "locations": [
+          "World",
+          "Palestine",
+          "Israel",
+          "occupied territories"
+        ],
+        "products": [],
+        "events": [
+          "Nakba"
+        ]
+      },
+      "key_events": [
+        "World could be witnessing \u2018another Nakba\u2019",
+        "UN committee warns",
+        "Israel's priority is a 'wider colonial expansion'"
+      ],
+      "sentiment": {
+        "overall": "negative",
+        "entity_sentiments": [
+          {
+            "entity": "World",
+            "sentiment": "negative"
+          },
+          {
+            "entity": "Palestine",
+            "sentiment": "negative"
+          },
+          {
+            "entity": "Israel",
+            "sentiment": "negative"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "article_id": 42,
+    "title": "US reports second air traffic control outage at New Jersey airport",
+    "source": "Al Jazeera",
+    "published_date": "2025-05-09T21:05:15",
+    "link": "https://www.aljazeera.com/news/2025/5/9/us-reports-second-air-traffic-control-outage-at-new-jersey-airport?traffic_source=rss",
+    "extracted_info": {
+      "entities": {
+        "organizations": [
+          "Trump administration"
+        ],
+        "persons": [
+          "Trump"
+        ],
+        "locations": [
+          "US",
+          "New Jersey"
+        ],
+        "products": [],
+        "events": [
+          "air traffic control outage"
+        ]
+      },
+      "key_events": [
+        "US reports second air traffic control outage",
+        "facing pressure to modernise air traffic control systems",
+        "hire more staff"
+      ],
+      "sentiment": {
+        "overall": "negative",
+        "entity_sentiments": [
+          {
+            "entity": "US",
+            "sentiment": "negative"
+          },
+          {
+            "entity": "Trump administration",
+            "sentiment": "negative"
+          },
+          {
+            "entity": "air traffic control systems",
+            "sentiment": "negative"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "article_id": 43,
+    "title": "India, Pakistan exchange claims over drone strikes",
+    "source": "Al Jazeera",
+    "published_date": "2025-05-09T20:57:39",
+    "link": "https://www.aljazeera.com/program/newsfeed/2025/5/9/india-pakistan-exchange-claims-over-drone-strikes?traffic_source=rss",
+    "extracted_info": {
+      "entities": {
+        "organizations": [],
+        "persons": [],
+        "locations": [
+          "India",
+          "Pakistan"
+        ],
+        "products": [
+          "drone",
+          "artillery"
+        ],
+        "events": [
+          "fighting"
+        ]
+      },
+      "key_events": [
+        "exchange claims",
+        "trading drone strikes",
+        "trading artillery strikes"
+      ],
+      "sentiment": {
+        "overall": "negative",
+        "entity_sentiments": [
+          {
+            "entity": "India",
+            "sentiment": "negative"
+          },
+          {
+            "entity": "Pakistan",
+            "sentiment": "negative"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "article_id": 44,
+    "title": "Mexico is suing Google over \u2018Gulf of America\u2019 label, Sheinbaum says",
+    "source": "Al Jazeera",
+    "published_date": "2025-05-09T20:49:29",
+    "link": "https://www.aljazeera.com/news/2025/5/9/mexico-is-suing-google-over-gulf-of-america-label-sheinbaum-says?traffic_source=rss",
+    "extracted_info": {
+      "entities": {
+        "organizations": [
+          "Google"
+        ],
+        "persons": [
+          "Sheinbaum",
+          "Trump"
+        ],
+        "locations": [
+          "Mexico",
+          "Gulf of Mexico",
+          "US",
+          "Gulf of America"
+        ],
+        "products": [],
+        "events": []
+      },
+      "key_events": [
+        "Mexico is suing Google",
+        "Mexico has called on Google",
+        "Google to not change the name"
+      ],
+      "sentiment": {
+        "overall": "neutral",
+        "entity_sentiments": [
+          {
+            "entity": "Mexico",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Google",
+            "sentiment": "negative"
+          },
+          {
+            "entity": "Gulf of Mexico",
+            "sentiment": "neutral"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "article_id": 45,
+    "title": "Barcelona vs Real Madrid: El Clasico La Liga start time, team news, lineups",
+    "source": "Al Jazeera",
+    "published_date": "2025-05-09T20:38:22",
+    "link": "https://www.aljazeera.com/sports/2025/5/9/barcelona-vs-real-madrid-la-liga-el-clasico-team-news-how-to-follow?traffic_source=rss",
+    "extracted_info": {
+      "entities": {
+        "organizations": [
+          "Real Madrid",
+          "La Liga",
+          "Al Jazeera"
+        ],
+        "persons": [],
+        "locations": [
+          "Barcelona"
+        ],
+        "products": [],
+        "events": [
+          "El Clasico"
+        ]
+      },
+      "key_events": [
+        "Barcelona vs Real Madrid",
+        "Al Jazeera takes a look",
+        "set to be pivotal"
+      ],
+      "sentiment": {
+        "overall": "neutral",
+        "entity_sentiments": [
+          {
+            "entity": "Barcelona",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Real Madrid",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "El Clasico",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "La Liga",
+            "sentiment": "neutral"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "article_id": 46,
+    "title": "Mohsen Mahdawi tells Al Jazeera why he refuses to be afraid",
+    "source": "Al Jazeera",
+    "published_date": "2025-05-09T20:19:13",
+    "link": "https://www.aljazeera.com/video/newsfeed/2025/5/9/mohsen-mahdawi-tells-al-jazeera-why-he-refuses-to-be-afraid?traffic_source=rss",
+    "extracted_info": {
+      "entities": {
+        "organizations": [
+          "Al Jazeera"
+        ],
+        "persons": [
+          "Mohsen Mahdawi",
+          "Kristen Saloomey"
+        ],
+        "locations": [],
+        "products": [],
+        "events": [
+          "arrest",
+          "imprisonment"
+        ]
+      },
+      "key_events": [
+        "tells Al Jazeera",
+        "refuses to be afraid",
+        "recounted his arrest",
+        "recounted his imprisonment"
+      ],
+      "sentiment": {
+        "overall": "neutral",
+        "entity_sentiments": [
+          {
+            "entity": "Mohsen Mahdawi",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Al Jazeera",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Kristen Saloomey",
+            "sentiment": "neutral"
+          }
+        ]
+      }
+    }
+  }
+]
