@@ -353,10 +353,8 @@ The knowledge graph can be exported in standard formats (GraphML, GEXF) for inte
 4. **Regular Auditing**: Implement processes to identify and correct biases in the system.
 5. **Documentation**: Clearly document system limitations for end users.
 
-## License
 
-[MIT License](LICENSE)
 
 ## Contact
 
-For questions or feedback, please contact [your-email@example.com](mailto:your-email@example.com)
+For questions or feedback, please contact [sidhtangduggal511@gmail.com](mailto:your-email@example.com)
