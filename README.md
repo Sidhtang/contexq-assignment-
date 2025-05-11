@@ -90,6 +90,8 @@ google-generativeai
    ```
 
 ## System Architecture
+![image](https://github.com/user-attachments/assets/8f243cb1-62c4-4f94-8939-e146e24b4242)
+
 
 The system is composed of four main components:
 
